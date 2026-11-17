@@ -1,5 +1,5 @@
 /* Talisman service worker */
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL = `talisman-shell-${VERSION}`;
 const TILES = 'talisman-tiles-v1';
 const MAX_RUNTIME_TILES = 800;
@@ -80,7 +80,7 @@ self.addEventListener('fetch', e => {
   if (isTile(req.url)) { e.respondWith(tileResponse(req)); return; }
   if (url.origin === self.location.origin) {
     // HTML and data: fresh when online, cached when not
-    if (req.mode === 'navigate' || url.pathname.endsWith('.json')) {
+    if (req.mode === 'navigate' || /\.(json|js|css)$/.test(url.pathname)) {
       e.respondWith(networkFirst(req.mode === 'navigate' ? new Request('index.html') : req));
       return;
     }

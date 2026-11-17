@@ -45,13 +45,12 @@
   }
 
   // ---------- map ----------
-  const TILE_STYLE = 'light_all';
-  const TILE_URL = `https://{s}.basemaps.cartocdn.com/${TILE_STYLE}/{z}/{x}/{y}{r}.png`;
+  const TILE_URL = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
   const map = L.map('map', { zoomControl: false, attributionControl: true, minZoom: 10, maxZoom: 19, tap: false })
     .setView([48.8566, 2.34], 13);
   L.tileLayer(TILE_URL, {
-    subdomains: 'abcd', maxZoom: 20, detectRetina: false, crossOrigin: true,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    maxZoom: 19, crossOrigin: true,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
   map.attributionControl.setPrefix(false);
 
@@ -342,32 +341,6 @@
     }
   };
 
-  // Offline tile pre-cache for central Paris (zoom 12–15)
-  function tileList() {
-    const r = window.devicePixelRatio > 1 ? '@2x' : '';
-    const bb = { s: 48.815, n: 48.905, w: 2.225, e: 2.42 };
-    const lon2x = (lon, z) => Math.floor((lon + 180) / 360 * 2 ** z);
-    const lat2y = (lat, z) => { const rad = lat * Math.PI / 180; return Math.floor((1 - Math.log(Math.tan(rad) + 1 / Math.cos(rad)) / Math.PI) / 2 * 2 ** z); };
-    const urls = [];
-    for (let z = 12; z <= 15; z++) {
-      for (let x = lon2x(bb.w, z); x <= lon2x(bb.e, z); x++)
-        for (let y = lat2y(bb.n, z); y <= lat2y(bb.s, z); y++)
-          urls.push(`https://${'abcd'[(x + y) % 4]}.basemaps.cartocdn.com/${TILE_STYLE}/${z}/${x}/${y}${r}.png`);
-    }
-    return urls;
-  }
-  $('#offlineBtn').onclick = async () => {
-    const out = $('#offlineStatus');
-    if (!('serviceWorker' in navigator) || !navigator.serviceWorker.controller) { out.textContent = 'Offline saving needs the installed app. Reload once, then try again.'; return; }
-    const urls = tileList();
-    out.textContent = `Saving ${urls.length} map tiles…`;
-    navigator.serviceWorker.controller.postMessage({ type: 'precache-tiles', urls });
-  };
-  navigator.serviceWorker?.addEventListener('message', e => {
-    const m = e.data || {};
-    if (m.type === 'precache-progress') $('#offlineStatus').textContent = `Saving map… ${m.done}/${m.total}`;
-    if (m.type === 'precache-done') $('#offlineStatus').textContent = `Central Paris saved for offline use (${m.ok} tiles${m.failed ? `, ${m.failed} failed` : ''}).`;
-  });
 
   let deferredInstall = null;
   window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredInstall = e; });

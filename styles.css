@@ -12,7 +12,7 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 
 #map{position:fixed;inset:0;background:var(--bone)}
 .leaflet-container{font-family:var(--font);background:var(--bone)}
-.leaflet-tile-pane{filter:grayscale(1) sepia(.28) contrast(.92) brightness(1.02)}
+.leaflet-tile-pane{filter:grayscale(1) sepia(.3) contrast(.86) brightness(1.06)}
 .leaflet-control-attribution{font-size:9px;background:transparent!important;color:var(--mute)}
 .leaflet-control-attribution a{color:var(--mute)}
 .leaflet-bottom.leaflet-right{bottom:calc(var(--peek) + var(--safe-b))}

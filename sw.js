@@ -1,8 +1,8 @@
 /* Talisman service worker */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL = `talisman-shell-${VERSION}`;
 const TILES = 'talisman-tiles-v1';
-const MAX_RUNTIME_TILES = 1500;
+const MAX_RUNTIME_TILES = 800;
 
 const SHELL_FILES = [
   './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/places.json',
@@ -23,8 +23,8 @@ self.addEventListener('activate', e => {
 });
 
 // Tiles come from a/b/c/d subdomains; store them under one key so any subdomain hits the cache.
-const tileKey = url => 'https://tiles.local' + new URL(url).pathname;
-const isTile = url => /\.basemaps\.cartocdn\.com$/.test(new URL(url).hostname);
+const tileKey = url => url;
+const isTile = url => new URL(url).hostname === 'tile.openstreetmap.org';
 
 async function trimTiles() {
   const c = await caches.open(TILES);
@@ -92,29 +92,3 @@ self.addEventListener('fetch', e => {
   }
 });
 
-self.addEventListener('message', e => {
-  const m = e.data || {};
-  if (m.type !== 'precache-tiles') return;
-  const client = e.source;
-  e.waitUntil((async () => {
-    const pinned = await caches.open('talisman-tiles-pinned');
-    const urls = m.urls || [];
-    let done = 0, ok = 0, failed = 0, i = 0;
-    async function worker() {
-      while (i < urls.length) {
-        const u = urls[i++];
-        const key = tileKey(u);
-        try {
-          if (!(await pinned.match(key))) {
-            const res = await fetch(u, { mode: 'cors' });
-            if (res.ok) { await pinned.put(key, res); ok++; } else failed++;
-          } else ok++;
-        } catch { failed++; }
-        done++;
-        if (done % 20 === 0) client && client.postMessage({ type: 'precache-progress', done, total: urls.length });
-      }
-    }
-    await Promise.all(Array.from({ length: 6 }, worker));
-    client && client.postMessage({ type: 'precache-done', ok, failed, total: urls.length });
-  })());
-});

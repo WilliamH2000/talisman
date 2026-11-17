@@ -250,7 +250,7 @@
     $('#detailView').scrollTop = 0;
     if (sheet.dataset.state === 'peek') setSheet('half');
     refreshMarkers();
-    requestAnimationFrame(() => focusOn([p.lat, p.lng]));
+    setTimeout(() => { map.invalidateSize(); focusOn([p.lat, p.lng]); }, 320);
   }
   function closePlace() {
     state.selected = null;

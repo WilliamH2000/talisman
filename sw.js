@@ -1,5 +1,5 @@
 /* Talisman service worker */
-const VERSION = 'v3';
+const VERSION = 'v4';
 const SHELL = `talisman-shell-${VERSION}`;
 const TILES = 'talisman-tiles-v1';
 const MAX_RUNTIME_TILES = 800;

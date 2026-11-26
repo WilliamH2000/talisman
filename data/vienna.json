@@ -180,8 +180,228 @@
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Penzing_%28Wien%29_-_Kirche_am_Steinhof_%282%29.JPG"
    }
+  },
+  {
+   "id": "khm",
+   "name": "Kunsthistorisches Museum",
+   "category": "Art",
+   "area": "Museumsquartier",
+   "address": "Maria-Theresien-Platz",
+   "lat": 48.20374,
+   "lng": 16.36178,
+   "note": "Bruegel's room is the reason to come. The domed café under the cupola is the reason to stay.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches%20Museum%2C%20Maria-Theresien-Platz%2C%20Vienna"
+  },
+  {
+   "id": "belvedere",
+   "name": "Belvedere",
+   "category": "Art",
+   "area": "Landstraße",
+   "address": "Prinz-Eugen-Straße 27",
+   "lat": 48.19154,
+   "lng": 16.38089,
+   "note": "A Baroque palace on a terraced garden, with Klimt's Kiss upstairs. Walk down through the gardens afterwards.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Belvedere%2C%20Prinz-Eugen-Stra%C3%9Fe%2027%2C%20Vienna"
+  },
+  {
+   "id": "leopold",
+   "name": "Leopold Museum",
+   "category": "Art",
+   "area": "Museumsquartier",
+   "address": "Museumsplatz 1",
+   "lat": 48.20259,
+   "lng": 16.35907,
+   "note": "The world's largest Schiele collection, in a white limestone cube in the MuseumsQuartier.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Leopold%20Museum%2C%20Museumsplatz%201%2C%20Vienna"
+  },
+  {
+   "id": "albertina",
+   "name": "Albertina",
+   "category": "Art",
+   "area": "Innere Stadt",
+   "address": "Albertinaplatz 1",
+   "lat": 48.20464,
+   "lng": 16.36826,
+   "note": "A palace of drawings and prints, Dürer's hare among them. Hollein's flying roof blade marks the entrance.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Albertina%2C%20Albertinaplatz%201%2C%20Vienna"
+  },
+  {
+   "id": "wien-museum",
+   "name": "Wien Museum",
+   "category": "Art",
+   "area": "Karlsplatz",
+   "address": "Karlsplatz 8",
+   "lat": 48.20527,
+   "lng": 16.35976,
+   "note": "The city museum, reopened with a free permanent collection. Klimt, Loos's living room, and a terrace over Karlsplatz.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Wien%20Museum%2C%20Karlsplatz%208%2C%20Vienna"
+  },
+  {
+   "id": "prunksaal",
+   "name": "State Hall, National Library",
+   "category": "Books",
+   "area": "Innere Stadt",
+   "address": "Josefsplatz 1",
+   "lat": 48.20617,
+   "lng": 16.36669,
+   "note": "A Baroque library hall under a frescoed dome, lined with 200,000 books. One of the most beautiful rooms in Europe.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=State%20Hall%2C%20National%20Library%2C%20Josefsplatz%201%2C%20Vienna"
+  },
+  {
+   "id": "zentralfriedhof",
+   "name": "Zentralfriedhof",
+   "category": "Garden",
+   "area": "Simmering",
+   "address": "Simmeringer Hauptstraße 234",
+   "lat": 48.14933,
+   "lng": 16.43866,
+   "note": "Beethoven, Brahms and Schubert in the musicians' plots, and a Jugendstil church by Max Hegele. Bring time; it's huge.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Zentralfriedhof%2C%20Simmeringer%20Hauptstra%C3%9Fe%20234%2C%20Vienna"
+  },
+  {
+   "id": "werkbundsiedlung",
+   "name": "Werkbundsiedlung",
+   "category": "Architecture",
+   "area": "Hietzing",
+   "address": "Jagdschlossgasse",
+   "lat": 48.17991,
+   "lng": 16.2695,
+   "note": "A 1932 model estate of small modernist houses by Loos, Rietveld, Neutra and others. A walk through a manifesto.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Werkbundsiedlung%2C%20Jagdschlossgasse%2C%20Vienna"
+  },
+  {
+   "id": "wotruba",
+   "name": "Wotruba Church",
+   "category": "Architecture",
+   "area": "Liesing",
+   "address": "Rysergasse / Georgsgasse",
+   "lat": 48.14763,
+   "lng": 16.25345,
+   "note": "A church built from 152 concrete blocks, piled like a sculpture on a hill. Opening hours are limited.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Wotruba%20Church%2C%20Rysergasse%20/%20Georgsgasse%2C%20Vienna"
+  },
+  {
+   "id": "majolikahaus",
+   "name": "Majolikahaus",
+   "category": "Architecture",
+   "area": "Mariahilf",
+   "address": "Linke Wienzeile 40",
+   "lat": 48.19748,
+   "lng": 16.35919,
+   "note": "Wagner's apartment block faced in flowering tiles, beside its gilded neighbour. Best from the Naschmarkt.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Majolikahaus%2C%20Linke%20Wienzeile%2040%2C%20Vienna"
+  },
+  {
+   "id": "naschmarkt",
+   "name": "Naschmarkt",
+   "category": "Shop",
+   "area": "Mariahilf",
+   "address": "Naschmarkt",
+   "lat": 48.19818,
+   "lng": 16.36262,
+   "note": "A long market on the river cover, with stalls, cafés and Saturday's flea market. Breakfast, then browse.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Naschmarkt%2C%20Naschmarkt%2C%20Vienna"
+  },
+  {
+   "id": "hawelka",
+   "name": "Café Hawelka",
+   "category": "Café",
+   "area": "Innere Stadt",
+   "address": "Dorotheergasse 6",
+   "lat": 48.20796,
+   "lng": 16.36981,
+   "note": "A smoky-brown café of artists and writers, little changed since the 1940s. Buchteln come out of the oven late in the evening.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Hawelka%2C%20Dorotheergasse%206%2C%20Vienna"
+  },
+  {
+   "id": "braeunerhof",
+   "name": "Café Bräunerhof",
+   "category": "Café",
+   "area": "Innere Stadt",
+   "address": "Stallburggasse 2",
+   "lat": 48.2072,
+   "lng": 16.36865,
+   "note": "Thomas Bernhard's café: newspapers, plain marble tables, unhurried waiters. The least touristy of the classics.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Br%C3%A4unerhof%2C%20Stallburggasse%202%2C%20Vienna"
+  },
+  {
+   "id": "schwarzes-kameel",
+   "name": "Zum Schwarzen Kameel",
+   "category": "Food",
+   "area": "Innere Stadt",
+   "address": "Bognergasse 5",
+   "lat": 48.20999,
+   "lng": 16.36832,
+   "note": "A Jugendstil deli and wine bar, with tiny open sandwiches at the counter. A glass of Grüner Veltliner with them.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Zum%20Schwarzen%20Kameel%2C%20Bognergasse%205%2C%20Vienna"
+  },
+  {
+   "id": "demel",
+   "name": "Demel",
+   "category": "Café",
+   "area": "Innere Stadt",
+   "address": "Kohlmarkt 14",
+   "lat": 48.20861,
+   "lng": 16.36721,
+   "note": "The old court confectioner, all mirrors and glass cases of cakes. Watch the pastry chefs through the window.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Demel%2C%20Kohlmarkt%2014%2C%20Vienna"
+  },
+  {
+   "id": "palmenhaus",
+   "name": "Palmenhaus Schönbrunn",
+   "category": "Garden",
+   "area": "Hietzing",
+   "address": "Schönbrunn Palace Park",
+   "lat": 48.18422,
+   "lng": 16.3029,
+   "note": "An 1882 iron-and-glass palm house in the palace park, with three climate zones. Visit on a grey winter day.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Palmenhaus%20Sch%C3%B6nbrunn%2C%20Sch%C3%B6nbrunn%20Palace%20Park%2C%20Vienna"
+  },
+  {
+   "id": "freud-museum",
+   "name": "Sigmund Freud Museum",
+   "category": "Architecture",
+   "area": "Alsergrund",
+   "address": "Berggasse 19",
+   "lat": 48.21866,
+   "lng": 16.36305,
+   "note": "The flat and practice where Freud worked for 47 years. The waiting room remains as it was.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sigmund%20Freud%20Museum%2C%20Berggasse%2019%2C%20Vienna"
+  },
+  {
+   "id": "musikverein",
+   "name": "Musikverein",
+   "category": "Architecture",
+   "area": "Innere Stadt",
+   "address": "Musikvereinsplatz 1",
+   "lat": 48.20049,
+   "lng": 16.37273,
+   "note": "The Golden Hall, gilded caryatids and near-perfect acoustics. Hear anything here.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Musikverein%2C%20Musikvereinsplatz%201%2C%20Vienna"
+  },
+  {
+   "id": "riesenrad",
+   "name": "Wiener Riesenrad",
+   "category": "Architecture",
+   "area": "Leopoldstadt",
+   "address": "Riesenradplatz 1",
+   "lat": 48.21674,
+   "lng": 16.39591,
+   "note": "The 1897 Ferris wheel with its wooden cabins, made famous by The Third Man. Go round once at dusk.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Wiener%20Riesenrad%2C%20Riesenradplatz%201%2C%20Vienna"
+  },
+  {
+   "id": "augarten",
+   "name": "Augarten Porcelain",
+   "category": "Shop",
+   "area": "Leopoldstadt",
+   "address": "Obere Augartenstraße 1",
+   "lat": 48.22232,
+   "lng": 16.37993,
+   "note": "Porcelain made by hand in a Baroque palace in the Augarten park. The shop sells pieces designed by Josef Hoffmann.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Augarten%20Porcelain%2C%20Obere%20Augartenstra%C3%9Fe%201%2C%20Vienna"
   }
  ],
- "version": "talisman-0.3",
+ "version": "talisman-0.4",
  "slug": "vienna"
 }

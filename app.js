@@ -150,8 +150,14 @@
     map.easeTo({ center: lnglat, zoom: zoom ?? Math.max(map.getZoom(), 15), padding: padding(), duration: 650 });
   }
   function fitAll(animate = true) {
-    const list = filtered().length ? filtered() : state.places;
+    let list = filtered().length ? filtered() : state.places;
     if (!list.length) return;
+    // frame the city centre; day-trip places (e.g. Louisiana) don't zoom the whole city out
+    const ctr = state.cities.get(state.slug)?.center;
+    if (ctr && list.length > 3) {
+      const core = list.filter(p => haversine(ctr, [p.lat, p.lng]) < 9000);
+      if (core.length >= Math.min(3, list.length)) list = core;
+    }
     const b = new maplibregl.LngLatBounds();
     list.forEach(p => b.extend([p.lng, p.lat]));
     map.fitBounds(b, { padding: padding(), maxZoom: 15, duration: animate ? 700 : 0 });
@@ -289,7 +295,6 @@
       <p class="addr">${esc(p.address || '')}${state.me && p._d < 100000 ? '<br>' + fmtDist(p._d) + ' walk' : ''}</p>
       <p class="note">${esc(p.note || '')}</p>
       <a class="gmaps" href="${mapsUrl(p)}" target="_blank" rel="noopener">Open in Google Maps <span aria-hidden="true">↗</span></a>
-      ${p.draft ? '<p class="draft">Placeholder copy, to be replaced with Talisman text</p>' : ''}
       <div class="actions">
         <a class="act primary" href="${directionsUrl(p)}" target="_blank" rel="noopener">${ICON.walk}Walk there</a>
         <button class="act${isSaved ? ' on' : ''}" id="saveBtn">${isSaved ? ICON.saved + 'Saved' : ICON.save + 'Save'}</button>

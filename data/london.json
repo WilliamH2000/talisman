@@ -186,8 +186,228 @@
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Former_Middlesex_Sessions_House%2C_Clerkenwell_Green%2C_March_2022.jpg"
    }
+  },
+  {
+   "id": "national-theatre",
+   "name": "National Theatre",
+   "category": "Architecture",
+   "area": "South Bank",
+   "address": "Upper Ground, SE1 9PX",
+   "lat": 51.50704,
+   "lng": -0.11453,
+   "note": "Lasdun's terraced concrete on the river, all decks and fly towers. Walk the terraces at dusk even without a ticket.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=National%20Theatre%2C%20Upper%20Ground%2C%20SE1%209PX%2C%20London"
+  },
+  {
+   "id": "tate-modern",
+   "name": "Tate Modern",
+   "category": "Art",
+   "area": "Bankside",
+   "address": "Bankside, SE1 9TG",
+   "lat": 51.50743,
+   "lng": -0.09934,
+   "note": "A power station turned gallery; the Turbine Hall is the city's largest room. Climb the Blavatnik tower for the view.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern%2C%20Bankside%2C%20SE1%209TG%2C%20London"
+  },
+  {
+   "id": "serpentine",
+   "name": "Serpentine South Gallery",
+   "category": "Art",
+   "area": "Kensington Gardens",
+   "address": "Kensington Gardens, W2 3XA",
+   "lat": 51.50468,
+   "lng": -0.17498,
+   "note": "A 1930s tea pavilion turned gallery in the park. Each summer a different architect builds a pavilion on the lawn.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Serpentine%20South%20Gallery%2C%20Kensington%20Gardens%2C%20W2%203XA%2C%20London"
+  },
+  {
+   "id": "design-museum",
+   "name": "Design Museum",
+   "category": "Architecture",
+   "area": "Kensington",
+   "address": "224–238 Kensington High Street, W8 6AG",
+   "lat": 51.49992,
+   "lng": -0.20016,
+   "note": "A 1960s hyperbolic copper roof sheltering a new museum inside. Look up from the atrium stair.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Design%20Museum%2C%20224%E2%80%93238%20Kensington%20High%20Street%2C%20W8%206AG%2C%20London"
+  },
+  {
+   "id": "va-cast-courts",
+   "name": "V&A Cast Courts",
+   "category": "Art",
+   "area": "South Kensington",
+   "address": "Cromwell Road, SW7 2RL",
+   "lat": 51.49688,
+   "lng": -0.17164,
+   "note": "Plaster copies of Trajan's Column and Michelangelo's David, gathered under two Victorian skylit halls. Then the garden café.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=V%26A%20Cast%20Courts%2C%20Cromwell%20Road%2C%20SW7%202RL%2C%20London"
+  },
+  {
+   "id": "royal-academy",
+   "name": "Royal Academy of Arts",
+   "category": "Art",
+   "area": "Mayfair",
+   "address": "Burlington House, Piccadilly, W1J 0BD",
+   "lat": 51.50928,
+   "lng": -0.13974,
+   "note": "A Palladian courtyard off Piccadilly, linked by Chipperfield to the old Senate House behind. The Summer Exhibition is part of London's year.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Royal%20Academy%20of%20Arts%2C%20Burlington%20House%2C%20Piccadilly%2C%20W1J%200BD%2C%20London"
+  },
+  {
+   "id": "kenwood",
+   "name": "Kenwood House",
+   "category": "Art",
+   "area": "Hampstead Heath",
+   "address": "Hampstead Lane, NW3 7JR",
+   "lat": 51.57155,
+   "lng": -0.16734,
+   "note": "Robert Adam's library and a Rembrandt self-portrait, at the top of Hampstead Heath. Free, with a walk across the heath to get there.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kenwood%20House%2C%20Hampstead%20Lane%2C%20NW3%207JR%2C%20London"
+  },
+  {
+   "id": "highgate-cemetery",
+   "name": "Highgate Cemetery",
+   "category": "Garden",
+   "area": "Highgate",
+   "address": "Swain's Lane, N6 6PJ",
+   "lat": 51.56778,
+   "lng": -0.14859,
+   "note": "Victorian catacombs and an Egyptian avenue overgrown with ivy. The West side is seen on guided tours; the East is open to wander.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Highgate%20Cemetery%2C%20Swain%27s%20Lane%2C%20N6%206PJ%2C%20London"
+  },
+  {
+   "id": "2-willow-road",
+   "name": "2 Willow Road",
+   "category": "Architecture",
+   "area": "Hampstead",
+   "address": "2 Willow Road, NW3 1TH",
+   "lat": 51.5572,
+   "lng": -0.16914,
+   "note": "Ernő Goldfinger's own modernist house, still furnished as he lived in it, art collection and all. Small timed tours.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=2%20Willow%20Road%2C%202%20Willow%20Road%2C%20NW3%201TH%2C%20London"
+  },
+  {
+   "id": "eltham-palace",
+   "name": "Eltham Palace",
+   "category": "Architecture",
+   "area": "Eltham",
+   "address": "Court Yard, SE9 5QE",
+   "lat": 51.4471,
+   "lng": 0.04859,
+   "note": "An Art Deco mansion of the 1930s grafted onto a medieval great hall. The circular entrance hall is pure Hollywood.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Eltham%20Palace%2C%20Court%20Yard%2C%20SE9%205QE%2C%20London"
+  },
+  {
+   "id": "trellick-tower",
+   "name": "Trellick Tower",
+   "category": "Architecture",
+   "area": "North Kensington",
+   "address": "Golborne Road, W10 5PA",
+   "lat": 51.52381,
+   "lng": -0.20586,
+   "note": "Goldfinger's brutalist tower with its detached lift core and sky bridges. Best seen from Golborne Road.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Trellick%20Tower%2C%20Golborne%20Road%2C%20W10%205PA%2C%20London"
+  },
+  {
+   "id": "alexandra-road",
+   "name": "Alexandra Road Estate",
+   "category": "Architecture",
+   "area": "South Hampstead",
+   "address": "Rowley Way, NW8 0SN",
+   "lat": 51.53953,
+   "lng": -0.18358,
+   "note": "A curving street of stepped concrete terraces from the 1970s, quietly utopian. Walk Rowley Way end to end.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Road%20Estate%2C%20Rowley%20Way%2C%20NW8%200SN%2C%20London"
+  },
+  {
+   "id": "lloyds-building",
+   "name": "Lloyd's Building",
+   "category": "Architecture",
+   "area": "City of London",
+   "address": "1 Lime Street, EC3M 7HA",
+   "lat": 51.51296,
+   "lng": -0.08241,
+   "note": "Rogers's machine for insurance: lifts, ducts and stairs on the outside, in stainless steel. Look from Leadenhall Market.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Lloyd%27s%20Building%2C%201%20Lime%20Street%2C%20EC3M%207HA%2C%20London"
+  },
+  {
+   "id": "postmans-park",
+   "name": "Postman's Park",
+   "category": "Garden",
+   "area": "City of London",
+   "address": "King Edward Street, EC1A 7BT",
+   "lat": 51.51683,
+   "lng": -0.09743,
+   "note": "A small garden with Watts's wall of glazed tiles remembering ordinary people who died saving others. Deeply moving.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Postman%27s%20Park%2C%20King%20Edward%20Street%2C%20EC1A%207BT%2C%20London"
+  },
+  {
+   "id": "kew",
+   "name": "Kew Gardens",
+   "category": "Garden",
+   "area": "Richmond",
+   "address": "Kew, TW9 3AE",
+   "lat": 51.48329,
+   "lng": -0.29309,
+   "note": "The Victorian Palm House and the restored Temperate House, two of the great glasshouses. Give it a whole day.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kew%20Gardens%2C%20Kew%2C%20TW9%203AE%2C%20London"
+  },
+  {
+   "id": "columbia-road",
+   "name": "Columbia Road Flower Market",
+   "category": "Shop",
+   "area": "Bethnal Green",
+   "address": "Columbia Road, E2 7RG",
+   "lat": 51.52922,
+   "lng": -0.06962,
+   "note": "A Sunday-only flower market on a street of small shops. Come at the end, when the sellers cut their prices.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Columbia%20Road%20Flower%20Market%2C%20Columbia%20Road%2C%20E2%207RG%2C%20London"
+  },
+  {
+   "id": "st-john",
+   "name": "St. JOHN",
+   "category": "Food",
+   "area": "Smithfield",
+   "address": "26 St John Street, EC1M 4AY",
+   "lat": 51.52048,
+   "lng": -0.10127,
+   "note": "Nose-to-tail cooking in a whitewashed former smokehouse. Bone marrow on toast, then a madeleine from the bakery.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=St.%20JOHN%2C%2026%20St%20John%20Street%2C%20EC1M%204AY%2C%20London"
+  },
+  {
+   "id": "john-sandoe",
+   "name": "John Sandoe Books",
+   "category": "Books",
+   "area": "Chelsea",
+   "address": "10 Blacklands Terrace, SW3 2SR",
+   "lat": 51.49137,
+   "lng": -0.16092,
+   "note": "Three small 18th-century houses packed with books, chosen by people who read them. Ask for a recommendation.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=John%20Sandoe%20Books%2C%2010%20Blacklands%20Terrace%2C%20SW3%202SR%2C%20London"
+  },
+  {
+   "id": "liberty",
+   "name": "Liberty",
+   "category": "Shop",
+   "area": "Soho",
+   "address": "Regent Street, W1B 5AH",
+   "lat": 51.51383,
+   "lng": -0.14016,
+   "note": "A mock-Tudor store built from the timbers of two old warships, galleries round a timbered atrium. Prints, haberdashery and the scent hall.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Liberty%2C%20Regent%20Street%2C%20W1B%205AH%2C%20London"
+  },
+  {
+   "id": "connaught-bar",
+   "name": "The Connaught Bar",
+   "category": "Bar",
+   "area": "Mayfair",
+   "address": "Carlos Place, W1K 2AL",
+   "lat": 51.51018,
+   "lng": -0.15022,
+   "note": "A sleek, silvered Mayfair bar where martinis are mixed at a trolley by your table. Formal and worth it.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=The%20Connaught%20Bar%2C%20Carlos%20Place%2C%20W1K%202AL%2C%20London"
   }
  ],
- "version": "talisman-0.2",
+ "version": "talisman-0.4",
  "slug": "london"
 }

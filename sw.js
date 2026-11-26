@@ -1,11 +1,11 @@
 /* Talisman service worker */
-const VERSION = 'v8';
+const VERSION = 'v9';
 const SHELL = `talisman-shell-${VERSION}`;
 const MAP = 'talisman-map-v2';
 const MAX_MAP_ITEMS = 2500;
 
 const SHELL_FILES = [
-  './', 'index.html', 'styles.css?v=8', 'app.js?v=8', 'manifest.webmanifest',
+  './', 'index.html', 'styles.css?v=9', 'app.js?v=9', 'manifest.webmanifest',
   'data/cities.json', 'data/paris.json', 'data/london.json', 'data/rome.json', 'data/lisbon.json', 'data/copenhagen.json', 'data/milan.json', 'data/vienna.json', 'data/barcelona.json', 'data/berlin.json', 'data/amsterdam.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/mark.svg', 'icons/favicon.png',
   'vendor/maplibre/maplibre-gl.css', 'vendor/maplibre/maplibre-gl.js'

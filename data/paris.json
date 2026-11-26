@@ -1,6 +1,6 @@
 {
  "city": "Paris",
- "version": "placeholder-0.1",
+ "version": "talisman-0.4",
  "note": "PLACEHOLDER SET for testing the app. Replace with the Talisman Paris 50 dataset. Notes are draft copy, not Talisman's editorial voice.",
  "center": [
   48.8566,
@@ -15,7 +15,6 @@
    "lat": 48.8553,
    "lng": 2.3158,
    "note": "Sculpture set loose in a garden. Go for the rose beds and the light on bronze late in the day.",
-   "draft": true,
    "area": "7e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Rodin%2C%2077%20Rue%20de%20Varenne%2C%2075007%2C%20Paris",
    "photo": {
@@ -33,7 +32,6 @@
    "lat": 48.8556,
    "lng": 2.3655,
    "note": "A perfect square of brick and stone. Walk the arcades once, slowly, end to end.",
-   "draft": true,
    "area": "4e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Vosges%2C%20Place%20des%20Vosges%2C%2075004%2C%20Paris",
    "photo": {
@@ -51,7 +49,6 @@
    "lat": 48.8462,
    "lng": 2.3372,
    "note": "Pull a green chair to the Medici fountain and stay longer than you planned.",
-   "draft": true,
    "area": "6e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Jardin%20du%20Luxembourg%2C%20Rue%20de%20M%C3%A9dicis%20/%20Rue%20de%20Vaugirard%2C%2075006%2C%20Paris",
    "photo": {
@@ -69,7 +66,6 @@
    "lat": 48.8641,
    "lng": 2.2966,
    "note": "Raw concrete halls for the contemporary. The terrace looks straight at the river.",
-   "draft": true,
    "area": "16e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20Tokyo%2C%2013%20Avenue%20du%20Pr%C3%A9sident%20Wilson%2C%2075116%2C%20Paris",
    "photo": {
@@ -87,7 +83,6 @@
    "lat": 48.8526,
    "lng": 2.3471,
    "note": "Climb to the reading room upstairs. Notre-Dame sits across the water.",
-   "draft": true,
    "area": "5e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Shakespeare%20and%20Company%2C%2037%20Rue%20de%20la%20B%C3%BBcherie%2C%2075005%2C%20Paris",
    "photo": {
@@ -105,7 +100,6 @@
    "lat": 48.8638,
    "lng": 2.3227,
    "note": "Two oval rooms built around Monet's water lilies. Daylight comes from above.",
-   "draft": true,
    "area": "1er",
    "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20l%27Orangerie%2C%20Jardin%20des%20Tuileries%2C%2075001%2C%20Paris",
    "photo": {
@@ -123,7 +117,6 @@
    "lat": 48.8628,
    "lng": 2.3428,
    "note": "Tadao Ando's concrete cylinder set inside an 18th-century rotunda. Walk the upper ring.",
-   "draft": true,
    "area": "1er",
    "maps": "https://www.google.com/maps/search/?api=1&query=Bourse%20de%20Commerce%2C%202%20Rue%20de%20Viarmes%2C%2075001%2C%20Paris",
    "photo": {
@@ -141,7 +134,6 @@
    "lat": 48.8767,
    "lng": 2.2633,
    "note": "Gehry's glass sails at the edge of the Bois. The roof terraces are the building.",
-   "draft": true,
    "area": "16e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Fondation%20Louis%20Vuitton%2C%208%20Avenue%20du%20Mahatma%20Gandhi%2C%2075116%2C%20Paris",
    "photo": {
@@ -159,7 +151,6 @@
    "lat": 48.8513,
    "lng": 2.2654,
    "note": "Early Le Corbusier. The ramp in the gallery is a lesson in promenade.",
-   "draft": true,
    "area": "16e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Maison%20La%20Roche%2C%2010%20Square%20du%20Docteur%20Blanche%2C%2075016%2C%20Paris"
   },
@@ -171,7 +162,6 @@
    "lat": 48.849,
    "lng": 2.3572,
    "note": "Nouvel's south facade of mechanical apertures. Free rooftop over the Seine.",
-   "draft": true,
    "area": "5e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Institut%20du%20monde%20arabe%2C%201%20Rue%20des%20Foss%C3%A9s%20Saint-Bernard%2C%2075005%2C%20Paris",
    "photo": {
@@ -189,7 +179,6 @@
    "lat": 48.8809,
    "lng": 2.3828,
    "note": "A former quarry turned picturesque. Climb to the temple on the cliff.",
-   "draft": true,
    "area": "19e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Parc%20des%20Buttes-Chaumont%2C%201%20Rue%20Botzaris%2C%2075019%2C%20Paris",
    "photo": {
@@ -207,7 +196,6 @@
    "lat": 48.8497,
    "lng": 2.373,
    "note": "An elevated rail line planted as a walk. Start near Bastille and head east.",
-   "draft": true,
    "area": "12e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Coul%C3%A9e%20verte%20Ren%C3%A9-Dumont%2C%20Avenue%20Daumesnil%2C%2075012%2C%20Paris",
    "photo": {
@@ -225,7 +213,6 @@
    "lat": 48.8436,
    "lng": 2.3195,
    "note": "The sculptor's studios, kept close to how he left them. Quiet, and rarely full.",
-   "draft": true,
    "area": "15e",
    "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Bourdelle%2C%2018%20Rue%20Antoine%20Bourdelle%2C%2075015%2C%20Paris",
    "photo": {
@@ -234,6 +221,237 @@
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Le_jardin_du_--mus%C3%A9e_Bourdelle--_%C3%A0_Paris.JPG"
    }
+  },
+  {
+   "id": "fondation-cartier",
+   "name": "Fondation Cartier",
+   "category": "Art",
+   "area": "1er",
+   "address": "2 Place du Palais-Royal",
+   "lat": 48.86212,
+   "lng": 2.33823,
+   "note": "Nouvel has hollowed out an 1855 grand hotel opposite the Louvre and filled it with moving platforms. The building rearranges itself for each show.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Fondation%20Cartier%2C%202%20Place%20du%20Palais-Royal%2C%20Paris"
+  },
+  {
+   "id": "nissim-de-camondo",
+   "name": "Musée Nissim de Camondo",
+   "category": "Art",
+   "area": "8e",
+   "address": "63 Rue de Monceau",
+   "lat": 48.87917,
+   "lng": 2.31235,
+   "note": "A banker's mansion furnished with 18th-century French decorative art and left as a memorial to his son. Look at the kitchens below stairs too.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Nissim%20de%20Camondo%2C%2063%20Rue%20de%20Monceau%2C%20Paris"
+  },
+  {
+   "id": "jacquemart-andre",
+   "name": "Musée Jacquemart-André",
+   "category": "Art",
+   "area": "8e",
+   "address": "158 Boulevard Haussmann",
+   "lat": 48.87545,
+   "lng": 2.31054,
+   "note": "A collector couple's townhouse with a winter garden, a double spiral stair and Italian Renaissance pictures. Its café sits under a Tiepolo ceiling.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Jacquemart-Andr%C3%A9%2C%20158%20Boulevard%20Haussmann%2C%20Paris"
+  },
+  {
+   "id": "vie-romantique",
+   "name": "Musée de la Vie romantique",
+   "category": "Art",
+   "area": "9e",
+   "address": "16 Rue Chaptal",
+   "lat": 48.88135,
+   "lng": 2.33352,
+   "note": "A painter's house at the end of a cobbled lane, with George Sand's keepsakes and a greenhouse tea room in the garden.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20la%20Vie%20romantique%2C%2016%20Rue%20Chaptal%2C%20Paris"
+  },
+  {
+   "id": "zadkine",
+   "name": "Musée Zadkine",
+   "category": "Art",
+   "area": "6e",
+   "address": "100 bis Rue d'Assas",
+   "lat": 48.8428,
+   "lng": 2.3338,
+   "note": "A sculptor's studio and garden hidden behind a gate near the Luxembourg. Wood and stone figures among the ivy.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Zadkine%2C%20100%20bis%20Rue%20d%27Assas%2C%20Paris"
+  },
+  {
+   "id": "palais-royal",
+   "name": "Jardin du Palais-Royal",
+   "category": "Garden",
+   "area": "1er",
+   "address": "Place Colette",
+   "lat": 48.86491,
+   "lng": 2.33776,
+   "note": "Lime trees in clipped ranks inside a palace courtyard, with Buren's striped columns at the south end. Arcades of old shops all around.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Jardin%20du%20Palais-Royal%2C%20Place%20Colette%2C%20Paris"
+  },
+  {
+   "id": "galerie-vivienne",
+   "name": "Galerie Vivienne",
+   "category": "Architecture",
+   "area": "2e",
+   "address": "5 Rue de la Banque",
+   "lat": 48.86673,
+   "lng": 2.33976,
+   "note": "An 1820s covered passage with a mosaic floor and a glass roof. Booksellers, a wine shop and a tea room.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Galerie%20Vivienne%2C%205%20Rue%20de%20la%20Banque%2C%20Paris"
+  },
+  {
+   "id": "bnf-richelieu",
+   "name": "BnF Richelieu, Salle Ovale",
+   "category": "Books",
+   "area": "2e",
+   "address": "5 Rue Vivienne",
+   "lat": 48.86702,
+   "lng": 2.33892,
+   "note": "The oval reading room of the old national library, under a glazed dome and open to anyone, free. Sit down and read for an hour.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=BnF%20Richelieu%2C%20Salle%20Ovale%2C%205%20Rue%20Vivienne%2C%20Paris"
+  },
+  {
+   "id": "sainte-chapelle",
+   "name": "Sainte-Chapelle",
+   "category": "Architecture",
+   "area": "1er",
+   "address": "10 Boulevard du Palais",
+   "lat": 48.85539,
+   "lng": 2.34499,
+   "note": "A Gothic reliquary turned inside out: walls almost entirely of stained glass. Go on a bright morning, with a timed ticket.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle%2C%2010%20Boulevard%20du%20Palais%2C%20Paris"
+  },
+  {
+   "id": "musee-picasso",
+   "name": "Musée Picasso",
+   "category": "Art",
+   "area": "3e",
+   "address": "5 Rue de Thorigny",
+   "lat": 48.85987,
+   "lng": 2.36212,
+   "note": "Picasso's own collection in a 17th-century hôtel particulier, its grand stone stair the first work you see.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Picasso%2C%205%20Rue%20de%20Thorigny%2C%20Paris"
+  },
+  {
+   "id": "arts-et-metiers",
+   "name": "Musée des Arts et Métiers",
+   "category": "Architecture",
+   "area": "3e",
+   "address": "60 Rue Réaumur",
+   "lat": 48.8661,
+   "lng": 2.35541,
+   "note": "Machines, instruments and early aeroplanes inside a medieval priory church, with Foucault's pendulum swinging in the nave.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Arts%20et%20M%C3%A9tiers%2C%2060%20Rue%20R%C3%A9aumur%2C%20Paris"
+  },
+  {
+   "id": "philharmonie",
+   "name": "Philharmonie de Paris",
+   "category": "Architecture",
+   "area": "19e",
+   "address": "221 Avenue Jean-Jaurès",
+   "lat": 48.89192,
+   "lng": 2.39414,
+   "note": "Nouvel's shard-clad hill of a concert hall at the edge of La Villette. Inside, balconies float like clouds.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Philharmonie%20de%20Paris%2C%20221%20Avenue%20Jean-Jaur%C3%A8s%2C%20Paris"
+  },
+  {
+   "id": "la-villette",
+   "name": "Parc de la Villette",
+   "category": "Garden",
+   "area": "19e",
+   "address": "211 Avenue Jean-Jaurès",
+   "lat": 48.89489,
+   "lng": 2.38844,
+   "note": "Tschumi's red follies on a grid, a deconstructivist park with gardens hidden between them. Bring a bike.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Parc%20de%20la%20Villette%2C%20211%20Avenue%20Jean-Jaur%C3%A8s%2C%20Paris"
+  },
+  {
+   "id": "lafayette-anticipations",
+   "name": "Lafayette Anticipations",
+   "category": "Art",
+   "area": "4e",
+   "address": "9 Rue du Plâtre",
+   "lat": 48.85901,
+   "lng": 2.35479,
+   "note": "OMA's steel tower of moving floors inside an old Marais warehouse. Free, with a good café on the ground floor.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Lafayette%20Anticipations%2C%209%20Rue%20du%20Pl%C3%A2tre%2C%20Paris"
+  },
+  {
+   "id": "hotel-de-la-marine",
+   "name": "Hôtel de la Marine",
+   "category": "Architecture",
+   "area": "8e",
+   "address": "2 Place de la Concorde",
+   "lat": 48.86694,
+   "lng": 2.3235,
+   "note": "The navy's 18th-century headquarters, restored to gilded state rooms. The loggia over Place de la Concorde is the reward.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20de%20la%20Marine%2C%202%20Place%20de%20la%20Concorde%2C%20Paris"
+  },
+  {
+   "id": "musee-ysl",
+   "name": "Musée Yves Saint Laurent",
+   "category": "Art",
+   "area": "16e",
+   "address": "5 Avenue Marceau",
+   "lat": 48.86559,
+   "lng": 2.29932,
+   "note": "The couture house where Saint Laurent worked for 30 years. His studio is kept as he left it, mood boards and all.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Yves%20Saint%20Laurent%2C%205%20Avenue%20Marceau%2C%20Paris"
+  },
+  {
+   "id": "grande-mosquee",
+   "name": "Grande Mosquée de Paris",
+   "category": "Café",
+   "area": "5e",
+   "address": "2 bis Place du Puits-de-l'Ermite",
+   "lat": 48.84207,
+   "lng": 2.3551,
+   "note": "Mint tea and pastries in a tiled courtyard under fig trees. The garden and patios behind are worth a quiet walk.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Grande%20Mosqu%C3%A9e%20de%20Paris%2C%202%20bis%20Place%20du%20Puits-de-l%27Ermite%2C%20Paris"
+  },
+  {
+   "id": "deyrolle",
+   "name": "Deyrolle",
+   "category": "Shop",
+   "area": "7e",
+   "address": "46 Rue du Bac",
+   "lat": 48.85648,
+   "lng": 2.32639,
+   "note": "A cabinet of curiosities since 1831: taxidermy, insects and school wall charts in wood-panelled rooms. Climb the stair at the back.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Deyrolle%2C%2046%20Rue%20du%20Bac%2C%20Paris"
+  },
+  {
+   "id": "galignani",
+   "name": "Galignani",
+   "category": "Books",
+   "area": "1er",
+   "address": "224 Rue de Rivoli",
+   "lat": 48.86502,
+   "lng": 2.32855,
+   "note": "Said to be the first English bookshop on the Continent, under the Rivoli arcades. Oak shelves, art books and quiet.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Galignani%2C%20224%20Rue%20de%20Rivoli%2C%20Paris"
+  },
+  {
+   "id": "merci",
+   "name": "Merci",
+   "category": "Shop",
+   "area": "3e",
+   "address": "111 Boulevard Beaumarchais",
+   "lat": 48.86077,
+   "lng": 2.36693,
+   "note": "A concept store in an old wallpaper factory, with a red Fiat in the courtyard. The used-book café is the calm corner.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Merci%2C%20111%20Boulevard%20Beaumarchais%2C%20Paris"
+  },
+  {
+   "id": "bar-hemingway",
+   "name": "Bar Hemingway",
+   "category": "Bar",
+   "area": "1er",
+   "address": "15 Place Vendôme",
+   "lat": 48.86797,
+   "lng": 2.32884,
+   "note": "A tiny wood-panelled bar inside the Ritz, with photographs and fishing rods. Some of the best cocktails in the city.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Bar%20Hemingway%2C%2015%20Place%20Vend%C3%B4me%2C%20Paris"
   }
  ],
  "slug": "paris",

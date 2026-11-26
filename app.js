@@ -79,7 +79,10 @@
     fadeDuration: 150
   });
   map.touchZoomRotate.disableRotation();
-  map.addControl(new maplibregl.AttributionControl({ compact: true, customAttribution: 'OpenFreeMap © OpenMapTiles' }), 'bottom-right');
+  map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+  // keep the credit folded into its (i) button so it never covers the map
+  const foldAttrib = () => document.querySelectorAll('.maplibregl-ctrl-attrib').forEach(a => a.classList.remove('maplibregl-compact-show'));
+  map.on('load', foldAttrib); map.once('idle', foldAttrib);
 
   // Recolour the base style to the Talisman palette
   function restyle() {

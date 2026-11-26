@@ -1,0 +1,112 @@
+{
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "center": [
+  55.68,
+  12.565
+ ],
+ "places": [
+  {
+   "id": "designmuseum",
+   "name": "Designmuseum Danmark",
+   "category": "Art",
+   "area": "Frederiksstaden",
+   "address": "Bredgade 68",
+   "lat": 55.68637,
+   "lng": 12.59441,
+   "note": "A rococo hospital turned into the story of the Danish chair. The garden courtyard is a calm reset after Bredgade."
+  },
+  {
+   "id": "grundtvigs-kirke",
+   "name": "Grundtvig's Church",
+   "category": "Architecture",
+   "area": "Bispebjerg",
+   "address": "På Bjerget 14B",
+   "lat": 55.71659,
+   "lng": 12.53386,
+   "note": "An expressionist cathedral built from six million yellow bricks, organ-pipe facade and all. Inside, nothing but brick and light."
+  },
+  {
+   "id": "cisternerne",
+   "name": "Cisternerne",
+   "category": "Art",
+   "area": "Frederiksberg",
+   "address": "Søndermarken",
+   "lat": 55.66959,
+   "lng": 12.5242,
+   "note": "A disused underground reservoir beneath a park, now dark, wet and used for exhibitions. Only glass pyramids give it away above ground."
+  },
+  {
+   "id": "black-diamond",
+   "name": "The Black Diamond",
+   "category": "Architecture",
+   "area": "Slotsholmen",
+   "address": "Søren Kierkegaards Plads 1",
+   "lat": 55.67355,
+   "lng": 12.58286,
+   "note": "The Royal Library's black granite extension, leaning over the harbour. Walk through the glass atrium into the quiet old reading rooms."
+  },
+  {
+   "id": "superkilen",
+   "name": "Superkilen",
+   "category": "Architecture",
+   "area": "Nørrebro",
+   "address": "Nørrebrogade 210",
+   "lat": 55.69968,
+   "lng": 12.5424,
+   "note": "A kilometre-long park of objects from 60 countries, by BIG, Topotek 1 and Superflex. The red square, black market and green park each play differently."
+  },
+  {
+   "id": "assistens",
+   "name": "Assistens Kirkegård",
+   "category": "Garden",
+   "area": "Nørrebro",
+   "address": "Kapelvej 2",
+   "lat": 55.69092,
+   "lng": 12.54944,
+   "note": "A cemetery that works as a park. Kierkegaard and Hans Christian Andersen lie among the lime trees, and locals picnic nearby."
+  },
+  {
+   "id": "arne-jacobsen-royal",
+   "name": "Radisson Collection Royal Hotel",
+   "category": "Hotel",
+   "area": "Vesterbro",
+   "address": "Hammerichsgade 1",
+   "lat": 55.67491,
+   "lng": 12.56377,
+   "note": "Arne Jacobsen's 1960 tower, the first design hotel. Room 606 is kept as he furnished it, Egg chairs included."
+  },
+  {
+   "id": "apollo-bar",
+   "name": "Apollo Bar",
+   "category": "Café",
+   "area": "Nyhavn",
+   "address": "Nyhavn 2",
+   "lat": 55.67987,
+   "lng": 12.5884,
+   "note": "A museum café in the courtyard of Kunsthal Charlottenborg, lit by PH lamps. Breakfast to late wine, a few steps and a world away from Nyhavn."
+  },
+  {
+   "id": "hart-bageri",
+   "name": "Hart Bageri",
+   "category": "Café",
+   "area": "Frederiksberg",
+   "address": "Gammel Kongevej 109",
+   "lat": 55.67538,
+   "lng": 12.5455,
+   "note": "Richard Hart's sourdough bakery on Gammel Kongevej. The cardamom bun is the order. Arrive early on a Saturday; it sells out."
+  },
+  {
+   "id": "copenhill",
+   "name": "CopenHill",
+   "category": "Architecture",
+   "area": "Amager",
+   "address": "Vindmøllevej 6",
+   "lat": 55.68474,
+   "lng": 12.62063,
+   "note": "A waste-to-energy plant with a ski slope on its roof. BIG's landmark that is also a park; walk the trail up for the harbour view."
+  }
+ ],
+ "version": "talisman-0.2",
+ "slug": "copenhagen"
+}

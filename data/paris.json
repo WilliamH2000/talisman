@@ -1,0 +1,156 @@
+{
+ "city": "Paris",
+ "version": "placeholder-0.1",
+ "note": "PLACEHOLDER SET for testing the app. Replace with the Talisman Paris 50 dataset. Notes are draft copy, not Talisman's editorial voice.",
+ "center": [
+  48.8566,
+  2.34
+ ],
+ "places": [
+  {
+   "id": "musee-rodin",
+   "name": "Musée Rodin",
+   "category": "Art",
+   "address": "77 Rue de Varenne, 75007",
+   "lat": 48.8553,
+   "lng": 2.3158,
+   "note": "Sculpture set loose in a garden. Go for the rose beds and the light on bronze late in the day.",
+   "draft": true,
+   "area": "7e"
+  },
+  {
+   "id": "place-des-vosges",
+   "name": "Place des Vosges",
+   "category": "Architecture",
+   "address": "Place des Vosges, 75004",
+   "lat": 48.8556,
+   "lng": 2.3655,
+   "note": "A perfect square of brick and stone. Walk the arcades once, slowly, end to end.",
+   "draft": true,
+   "area": "4e"
+  },
+  {
+   "id": "jardin-luxembourg",
+   "name": "Jardin du Luxembourg",
+   "category": "Garden",
+   "address": "Rue de Médicis / Rue de Vaugirard, 75006",
+   "lat": 48.8462,
+   "lng": 2.3372,
+   "note": "Pull a green chair to the Medici fountain and stay longer than you planned.",
+   "draft": true,
+   "area": "6e"
+  },
+  {
+   "id": "palais-de-tokyo",
+   "name": "Palais de Tokyo",
+   "category": "Art",
+   "address": "13 Avenue du Président Wilson, 75116",
+   "lat": 48.8641,
+   "lng": 2.2966,
+   "note": "Raw concrete halls for the contemporary. The terrace looks straight at the river.",
+   "draft": true,
+   "area": "16e"
+  },
+  {
+   "id": "shakespeare-and-company",
+   "name": "Shakespeare and Company",
+   "category": "Books",
+   "address": "37 Rue de la Bûcherie, 75005",
+   "lat": 48.8526,
+   "lng": 2.3471,
+   "note": "Climb to the reading room upstairs. Notre-Dame sits across the water.",
+   "draft": true,
+   "area": "5e"
+  },
+  {
+   "id": "orangerie",
+   "name": "Musée de l'Orangerie",
+   "category": "Art",
+   "address": "Jardin des Tuileries, 75001",
+   "lat": 48.8638,
+   "lng": 2.3227,
+   "note": "Two oval rooms built around Monet's water lilies. Daylight comes from above.",
+   "draft": true,
+   "area": "1er"
+  },
+  {
+   "id": "bourse-de-commerce",
+   "name": "Bourse de Commerce",
+   "category": "Architecture",
+   "address": "2 Rue de Viarmes, 75001",
+   "lat": 48.8628,
+   "lng": 2.3428,
+   "note": "Tadao Ando's concrete cylinder set inside an 18th-century rotunda. Walk the upper ring.",
+   "draft": true,
+   "area": "1er"
+  },
+  {
+   "id": "fondation-louis-vuitton",
+   "name": "Fondation Louis Vuitton",
+   "category": "Architecture",
+   "address": "8 Avenue du Mahatma Gandhi, 75116",
+   "lat": 48.8767,
+   "lng": 2.2633,
+   "note": "Gehry's glass sails at the edge of the Bois. The roof terraces are the building.",
+   "draft": true,
+   "area": "16e"
+  },
+  {
+   "id": "maison-la-roche",
+   "name": "Maison La Roche",
+   "category": "Architecture",
+   "address": "10 Square du Docteur Blanche, 75016",
+   "lat": 48.8513,
+   "lng": 2.2654,
+   "note": "Early Le Corbusier. The ramp in the gallery is a lesson in promenade.",
+   "draft": true,
+   "area": "16e"
+  },
+  {
+   "id": "institut-monde-arabe",
+   "name": "Institut du monde arabe",
+   "category": "Architecture",
+   "address": "1 Rue des Fossés Saint-Bernard, 75005",
+   "lat": 48.849,
+   "lng": 2.3572,
+   "note": "Nouvel's south facade of mechanical apertures. Free rooftop over the Seine.",
+   "draft": true,
+   "area": "5e"
+  },
+  {
+   "id": "buttes-chaumont",
+   "name": "Parc des Buttes-Chaumont",
+   "category": "Garden",
+   "address": "1 Rue Botzaris, 75019",
+   "lat": 48.8809,
+   "lng": 2.3828,
+   "note": "A former quarry turned picturesque. Climb to the temple on the cliff.",
+   "draft": true,
+   "area": "19e"
+  },
+  {
+   "id": "coulee-verte",
+   "name": "Coulée verte René-Dumont",
+   "category": "Garden",
+   "address": "Avenue Daumesnil, 75012",
+   "lat": 48.8497,
+   "lng": 2.373,
+   "note": "An elevated rail line planted as a walk. Start near Bastille and head east.",
+   "draft": true,
+   "area": "12e"
+  },
+  {
+   "id": "musee-bourdelle",
+   "name": "Musée Bourdelle",
+   "category": "Art",
+   "address": "18 Rue Antoine Bourdelle, 75015",
+   "lat": 48.8436,
+   "lng": 2.3195,
+   "note": "The sculptor's studios, kept close to how he left them. Quiet, and rarely full.",
+   "draft": true,
+   "area": "15e"
+  }
+ ],
+ "slug": "paris",
+ "country": "France"
+}

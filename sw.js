@@ -1,59 +1,51 @@
 /* Talisman service worker */
-const VERSION = 'v4';
+const VERSION = 'v5';
 const SHELL = `talisman-shell-${VERSION}`;
-const TILES = 'talisman-tiles-v1';
-const MAX_RUNTIME_TILES = 800;
+const MAP = 'talisman-map-v2';
+const MAX_MAP_ITEMS = 2500;
 
 const SHELL_FILES = [
-  './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/places.json',
-  'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',
-  'vendor/leaflet/leaflet.css',
-  'vendor/leaflet/leaflet.js'
+  './', 'index.html', 'styles.css?v=5', 'app.js?v=5', 'manifest.webmanifest',
+  'data/cities.json', 'data/paris.json', 'data/london.json', 'data/rome.json', 'data/lisbon.json', 'data/copenhagen.json',
+  'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/mark.svg', 'icons/favicon.png',
+  'vendor/maplibre/maplibre-gl.css', 'vendor/maplibre/maplibre-gl.js'
 ];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(SHELL).then(c => c.addAll(SHELL_FILES)).then(() => self.skipWaiting()));
 });
-
 self.addEventListener('activate', e => {
   e.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k.startsWith('talisman-shell-') && k !== SHELL).map(k => caches.delete(k))))
+    caches.keys().then(keys => Promise.all(keys.filter(k => k.startsWith('talisman-') && k !== SHELL && k !== MAP).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
 
-// Tiles come from a/b/c/d subdomains; store them under one key so any subdomain hits the cache.
-const tileKey = url => url;
-const isTile = url => new URL(url).hostname === 'tile.openstreetmap.org';
-
-async function trimTiles() {
-  const c = await caches.open(TILES);
-  const keys = await c.keys();
-  const pinned = await caches.open('talisman-tiles-pinned');
-  if (keys.length > MAX_RUNTIME_TILES) {
-    for (const k of keys.slice(0, keys.length - MAX_RUNTIME_TILES)) {
-      if (!(await pinned.match(k))) await c.delete(k);
-    }
-  }
+let trimming = false;
+async function trimMap() {
+  if (trimming) return; trimming = true;
+  try {
+    const c = await caches.open(MAP); const keys = await c.keys();
+    for (const k of keys.slice(0, Math.max(0, keys.length - MAX_MAP_ITEMS))) await c.delete(k);
+  } finally { trimming = false; }
 }
-
-async function tileResponse(req) {
-  const key = tileKey(req.url);
-  const pinned = await caches.open('talisman-tiles-pinned');
-  const hitPinned = await pinned.match(key);
-  if (hitPinned) return hitPinned;
-  const c = await caches.open(TILES);
-  const hit = await c.match(key);
+// Map tiles, fonts and sprites: cache first (they're immutable per URL), fill as you browse
+async function mapAsset(req) {
+  const c = await caches.open(MAP);
+  const hit = await c.match(req);
   if (hit) return hit;
   try {
     const res = await fetch(req);
-    if (res.ok) { c.put(key, res.clone()); trimTiles(); }
+    if (res.ok) { c.put(req, res.clone()); trimMap(); }
     return res;
-  } catch (err) {
-    return new Response('', { status: 504 });
-  }
+  } catch { return new Response('', { status: 504 }); }
 }
-
+// Style JSON: fresh when online, cached when not
+async function mapStyle(req) {
+  const c = await caches.open(MAP);
+  try { const res = await fetch(req); if (res.ok) c.put(req, res.clone()); return res; }
+  catch { return (await c.match(req)) || Response.error(); }
+}
 async function networkFirst(req) {
   const c = await caches.open(SHELL);
   try {
@@ -61,14 +53,12 @@ async function networkFirst(req) {
     if (res.ok) c.put(req, res.clone());
     return res;
   } catch {
-    const hit = await c.match(req, { ignoreSearch: true });
-    return hit || Response.error();
+    return (await c.match(req)) || (await c.match(req, { ignoreSearch: true })) || Response.error();
   }
 }
-
 async function staleWhileRevalidate(req) {
   const c = await caches.open(SHELL);
-  const hit = await c.match(req, { ignoreSearch: true });
+  const hit = await c.match(req);
   const net = fetch(req).then(res => { if (res.ok) c.put(req, res.clone()); return res; }).catch(() => null);
   return hit || (await net) || Response.error();
 }
@@ -77,18 +67,15 @@ self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  if (isTile(req.url)) { e.respondWith(tileResponse(req)); return; }
+  if (url.hostname === 'tiles.openfreemap.org') {
+    e.respondWith(url.pathname.startsWith('/styles/') || !/\.\w+$/.test(url.pathname) ? mapStyle(req) : mapAsset(req));
+    return;
+  }
   if (url.origin === self.location.origin) {
-    // HTML and data: fresh when online, cached when not
-    if (req.mode === 'navigate' || /\.(json|js|css)$/.test(url.pathname)) {
-      e.respondWith(networkFirst(req.mode === 'navigate' ? new Request('index.html') : req));
-      return;
-    }
+    if (req.mode === 'navigate') { e.respondWith(networkFirst(new Request('index.html'))); return; }
+    if (/\.(json|js|css)$/.test(url.pathname) && !url.pathname.includes('/vendor/')) { e.respondWith(networkFirst(req)); return; }
     e.respondWith(staleWhileRevalidate(req));
     return;
   }
-  if (/fonts\.(googleapis|gstatic)\.com/.test(url.hostname)) {
-    e.respondWith(staleWhileRevalidate(req));
-  }
+  if (/fonts\.(googleapis|gstatic)\.com/.test(url.hostname)) e.respondWith(staleWhileRevalidate(req));
 });
-

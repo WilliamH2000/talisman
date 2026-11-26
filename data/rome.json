@@ -1,0 +1,122 @@
+{
+ "city": "Rome",
+ "country": "Italy",
+ "center": [
+  41.897,
+  12.48
+ ],
+ "places": [
+  {
+   "id": "chiostro-del-bramante",
+   "name": "Chiostro del Bramante",
+   "category": "Architecture",
+   "area": "Navona",
+   "address": "Arco della Pace 5",
+   "lat": 41.90002,
+   "lng": 12.4715,
+   "note": "Bramante's first Roman work, a cloister of perfect proportion two streets from Piazza Navona. The upstairs café looks into Raphael's Sibyls next door."
+  },
+  {
+   "id": "tempietto",
+   "name": "Tempietto del Bramante",
+   "category": "Architecture",
+   "area": "Trastevere",
+   "address": "Piazza di San Pietro in Montorio 2",
+   "lat": 41.88874,
+   "lng": 12.46639,
+   "note": "A small round temple in a courtyard on the Gianicolo, the High Renaissance distilled to a single room. Walk up from Trastevere and stay for the view."
+  },
+  {
+   "id": "quartiere-coppede",
+   "name": "Quartiere Coppedè",
+   "category": "Architecture",
+   "area": "Trieste",
+   "address": "Piazza Mincio",
+   "lat": 41.91869,
+   "lng": 12.50238,
+   "note": "A few streets of fantasy built between 1913 and 1927: Art Nouveau, Gothic and Baroque at once, with a frog fountain in the middle. Come on a Sunday morning."
+  },
+  {
+   "id": "centrale-montemartini",
+   "name": "Centrale Montemartini",
+   "category": "Art",
+   "area": "Ostiense",
+   "address": "Via Ostiense 106",
+   "lat": 41.86655,
+   "lng": 12.47801,
+   "note": "Classical marbles set among the turbines of a 1912 power station. Goddesses against cast iron. One of the city's least crowded museums."
+  },
+  {
+   "id": "giardino-degli-aranci",
+   "name": "Giardino degli Aranci",
+   "category": "Garden",
+   "area": "Aventino",
+   "address": "Piazza Pietro d'Illiria",
+   "lat": 41.88493,
+   "lng": 12.48045,
+   "note": "An orange grove on the Aventine with the whole city spread out below. Afterwards, look through the keyhole at the Knights of Malta gate down the road."
+  },
+  {
+   "id": "palazzo-doria-pamphilj",
+   "name": "Palazzo Doria Pamphilj",
+   "category": "Art",
+   "area": "Centro Storico",
+   "address": "Via del Corso 305",
+   "lat": 41.89782,
+   "lng": 12.48156,
+   "note": "A private family palace that still lives on the Corso. Velázquez's Innocent X hangs in its own small room. Take the audio guide narrated by a prince of the family."
+  },
+  {
+   "id": "maxxi",
+   "name": "MAXXI",
+   "category": "Architecture",
+   "area": "Flaminio",
+   "address": "Via Guido Reni 4A",
+   "lat": 41.92882,
+   "lng": 12.46667,
+   "note": "Zaha Hadid's concrete ribbons, stairs that fly through the void. Come for the building as much as the art, and walk the piazza after dark."
+  },
+  {
+   "id": "palazzo-civilta",
+   "name": "Palazzo della Civiltà Italiana",
+   "category": "Architecture",
+   "area": "EUR",
+   "address": "Quadrato della Concordia",
+   "lat": 41.83671,
+   "lng": 12.46512,
+   "note": "The 'square Colosseum': arches stacked six by nine in white travertine. Rationalist, unsettling, beautiful. Now Fendi's headquarters; the ground floor hosts exhibitions."
+  },
+  {
+   "id": "roscioli",
+   "name": "Roscioli Salumeria",
+   "category": "Food",
+   "area": "Regola",
+   "address": "Via dei Giubbonari 21",
+   "lat": 41.89415,
+   "lng": 12.47443,
+   "note": "A delicatessen with tables among the hams and cheeses. Carbonara as a reference point, and a wine list to match. Book; then get bread from their bakery round the corner."
+  },
+  {
+   "id": "bar-san-calisto",
+   "name": "Bar San Calisto",
+   "category": "Café",
+   "area": "Trastevere",
+   "address": "Piazza di San Calisto 3",
+   "lat": 41.88905,
+   "lng": 12.47074,
+   "note": "An unrenovated bar where Trastevere still drinks. Plastic chairs, cheap Peroni, a famous chocolate. The antidote to the aperitivo terraces."
+  },
+  {
+   "id": "drink-kong",
+   "name": "Drink Kong",
+   "category": "Bar",
+   "area": "Monti",
+   "address": "Piazza di San Martino ai Monti 8",
+   "lat": 41.89514,
+   "lng": 12.49787,
+   "note": "A neon-lit cocktail bar in Monti, all Blade Runner red. Inventive drinks, serious hospitality. Arrive early or expect to wait."
+  }
+ ],
+ "version": "talisman-0.2",
+ "slug": "rome"
+}

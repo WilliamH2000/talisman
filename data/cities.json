@@ -1,0 +1,64 @@
+{
+ "cities": [
+  {
+   "slug": "paris",
+   "city": "Paris",
+   "country": "France",
+   "count": 13,
+   "center": [
+    48.8566,
+    2.34
+   ]
+  },
+  {
+   "slug": "london",
+   "city": "London",
+   "country": "United Kingdom",
+   "count": 11,
+   "center": [
+    51.5155,
+    -0.12
+   ]
+  },
+  {
+   "slug": "rome",
+   "city": "Rome",
+   "country": "Italy",
+   "count": 11,
+   "center": [
+    41.897,
+    12.48
+   ]
+  },
+  {
+   "slug": "lisbon",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "count": 11,
+   "center": [
+    38.715,
+    -9.145
+   ]
+  },
+  {
+   "slug": "copenhagen",
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "count": 10,
+   "center": [
+    55.68,
+    12.565
+   ]
+  }
+ ],
+ "sources": [
+  "Condé Nast Traveller",
+  "Wallpaper*",
+  "Monocle",
+  "Kinfolk",
+  "AFAR",
+  "Spotted by Locals",
+  "Time Out",
+  "Visit Copenhagen"
+ ]
+}

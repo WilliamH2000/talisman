@@ -1,0 +1,122 @@
+{
+ "city": "London",
+ "country": "United Kingdom",
+ "center": [
+  51.5155,
+  -0.12
+ ],
+ "places": [
+  {
+   "id": "soane-museum",
+   "name": "Sir John Soane's Museum",
+   "category": "Architecture",
+   "area": "Holborn",
+   "address": "13 Lincoln's Inn Fields, WC2A 3BP",
+   "lat": 51.51708,
+   "lng": -0.1175,
+   "note": "An architect's house turned into a cabinet of light. Domes, mirrors and borrowed daylight do more here than any ornament. Go on a weekday morning, before the queue."
+  },
+  {
+   "id": "barbican-conservatory",
+   "name": "Barbican Conservatory",
+   "category": "Garden",
+   "area": "City of London",
+   "address": "Silk Street, EC2Y 8DS",
+   "lat": 51.51988,
+   "lng": -0.09263,
+   "note": "A tropical glasshouse wrapped around a theatre fly tower. Brutalism and banana leaves in the same frame. Open on selected days only, so book ahead."
+  },
+  {
+   "id": "st-dunstan-in-the-east",
+   "name": "St Dunstan-in-the-East",
+   "category": "Garden",
+   "area": "City of London",
+   "address": "St Dunstan's Hill, EC3R 5DD",
+   "lat": 51.50968,
+   "lng": -0.0825,
+   "note": "A bombed Wren church left as a ruin and let the garden in. Ivy climbs the tracery where the glass used to be. Best at lunchtime, when the City empties its offices."
+  },
+  {
+   "id": "leighton-house",
+   "name": "Leighton House",
+   "category": "Art",
+   "area": "Holland Park",
+   "address": "12 Holland Park Road, W14 8LZ",
+   "lat": 51.49861,
+   "lng": -0.20316,
+   "note": "A Victorian painter's studio-house with a gold-domed Arab Hall at its heart. Tiles, still water, a single fountain. The quietest room in west London."
+  },
+  {
+   "id": "kyoto-garden",
+   "name": "Kyoto Garden",
+   "category": "Garden",
+   "area": "Holland Park",
+   "address": "Holland Park, W8 6LU",
+   "lat": 51.50308,
+   "lng": -0.20453,
+   "note": "A Japanese garden folded into an English park: tiered waterfall, koi, maples. Pair it with Leighton House, five minutes' walk away."
+  },
+  {
+   "id": "wallace-collection",
+   "name": "The Wallace Collection",
+   "category": "Art",
+   "area": "Marylebone",
+   "address": "Hertford House, Manchester Square, W1U 3BN",
+   "lat": 51.51752,
+   "lng": -0.15304,
+   "note": "Old Masters still hanging in the townhouse they were collected for. Coloured silk walls, Fragonard's swing, armour by the roomful. Free, and never crowded."
+  },
+  {
+   "id": "daunt-marylebone",
+   "name": "Daunt Books",
+   "category": "Books",
+   "area": "Marylebone",
+   "address": "83–84 Marylebone High Street, W1U 4QW",
+   "lat": 51.52044,
+   "lng": -0.15225,
+   "note": "An Edwardian bookshop with a long oak gallery and a skylight. Shelved by country, so you browse the way you travel."
+  },
+  {
+   "id": "dennis-severs-house",
+   "name": "Dennis Severs' House",
+   "category": "Art",
+   "area": "Spitalfields",
+   "address": "18 Folgate Street, E1 6BX",
+   "lat": 51.52094,
+   "lng": -0.07779,
+   "note": "A Georgian house staged as if its family just left the room. Candlelight, ticking clocks, half-eaten bread. Visits are silent; keep it that way."
+  },
+  {
+   "id": "london-mithraeum",
+   "name": "London Mithraeum",
+   "category": "Architecture",
+   "area": "City of London",
+   "address": "12 Walbrook, EC4N 8AA",
+   "lat": 51.51238,
+   "lng": -0.09068,
+   "note": "A Roman temple rebuilt seven metres down, beneath Foster's Bloomberg building. Light and sound rebuild the walls in haze. Free; book a slot."
+  },
+  {
+   "id": "isokon",
+   "name": "Isokon Building",
+   "category": "Architecture",
+   "area": "Belsize Park",
+   "address": "Lawn Road, NW3 2XD",
+   "lat": 51.55181,
+   "lng": -0.16208,
+   "note": "Britain's first modernist block of flats, white and ocean-liner sleek. Gropius and Breuer both lived here. A small gallery tells the story on seasonal weekends."
+  },
+  {
+   "id": "sessions-arts-club",
+   "name": "Sessions Arts Club",
+   "category": "Food",
+   "area": "Clerkenwell",
+   "address": "24 Clerkenwell Green, EC1R 0NA",
+   "lat": 51.52301,
+   "lng": -0.10511,
+   "note": "Dinner in the old judges' dining room of an 18th-century courthouse, its plaster left beautifully undone. Art on the walls, seasonal plates. Book well ahead."
+  }
+ ],
+ "version": "talisman-0.2",
+ "slug": "london"
+}

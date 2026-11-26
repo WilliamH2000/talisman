@@ -1,0 +1,122 @@
+{
+ "city": "Lisbon",
+ "country": "Portugal",
+ "center": [
+  38.715,
+  -9.145
+ ],
+ "places": [
+  {
+   "id": "gulbenkian",
+   "name": "Gulbenkian Museum & Garden",
+   "category": "Garden",
+   "area": "Avenidas Novas",
+   "address": "Avenida de Berna 45A",
+   "lat": 38.73782,
+   "lng": -9.15351,
+   "note": "Sixties modernism set in a wild garden of streams and stone paths. Ancient Egypt to Lalique inside. The garden alone is worth the trip."
+  },
+  {
+   "id": "maat",
+   "name": "MAAT",
+   "category": "Architecture",
+   "area": "Belém",
+   "address": "Avenida Brasília",
+   "lat": 38.69593,
+   "lng": -9.19362,
+   "note": "A low wave of white tiles on the Tejo, its roof a walkway you can climb. Next door, the old red-brick power station is part of the museum."
+  },
+  {
+   "id": "pavilhao-de-portugal",
+   "name": "Pavilhão de Portugal",
+   "category": "Architecture",
+   "area": "Parque das Nações",
+   "address": "Alameda dos Oceanos",
+   "lat": 38.76634,
+   "lng": -9.09498,
+   "note": "Siza's concrete canopy, hung like a sheet of paper between two porticoes. One of the great architectural gestures of the late 20th century. Stand beneath it."
+  },
+  {
+   "id": "museu-azulejo",
+   "name": "Museu Nacional do Azulejo",
+   "category": "Art",
+   "area": "Xabregas",
+   "address": "Rua da Madre de Deus 4",
+   "lat": 38.72472,
+   "lng": -9.11391,
+   "note": "Five centuries of tiles in a former convent, gilded chapel included. The long panorama of pre-earthquake Lisbon is the piece to find."
+  },
+  {
+   "id": "senhora-do-monte",
+   "name": "Miradouro da Senhora do Monte",
+   "category": "Garden",
+   "area": "Graça",
+   "address": "Largo Monte",
+   "lat": 38.71908,
+   "lng": -9.13291,
+   "note": "The highest viewpoint in the old city, with the castle and the river in one look. Quieter than the famous lookouts; come at dusk."
+  },
+  {
+   "id": "igreja-sao-roque",
+   "name": "Igreja de São Roque",
+   "category": "Architecture",
+   "area": "Chiado",
+   "address": "Largo Trindade Coelho",
+   "lat": 38.71362,
+   "lng": -9.14343,
+   "note": "A plain facade hiding one of the richest interiors in Europe. The chapel of St John the Baptist was built in Rome, then shipped to Lisbon in pieces."
+  },
+  {
+   "id": "ler-devagar",
+   "name": "Ler Devagar",
+   "category": "Books",
+   "area": "Alcântara",
+   "address": "LX Factory, Rua Rodrigues de Faria 103",
+   "lat": 38.70276,
+   "lng": -9.17861,
+   "note": "A bookshop in an old printing works, shelves two storeys high and a bicycle flying overhead. Its name means 'read slowly'."
+  },
+  {
+   "id": "a-vida-portuguesa",
+   "name": "A Vida Portuguesa",
+   "category": "Shop",
+   "area": "Chiado",
+   "address": "Rua Nova do Almada",
+   "lat": 38.71013,
+   "lng": -9.13922,
+   "note": "Heritage Portuguese goods, from soaps and sardine tins to enamelware, in an old shop space. The best souvenirs in Lisbon, and none of them tacky."
+  },
+  {
+   "id": "embaixada",
+   "name": "Embaixada",
+   "category": "Shop",
+   "area": "Príncipe Real",
+   "address": "Praça do Príncipe Real 26",
+   "lat": 38.71688,
+   "lng": -9.14831,
+   "note": "A 19th-century neo-Moorish palace now full of Portuguese designers. Climb the main stair for the courtyard and the ceilings."
+  },
+  {
+   "id": "taberna-rua-das-flores",
+   "name": "Taberna da Rua das Flores",
+   "category": "Food",
+   "area": "Chiado",
+   "address": "Rua das Flores 103",
+   "lat": 38.71014,
+   "lng": -9.14359,
+   "note": "A tiny tasca with the day's menu read aloud from a chalkboard. Petiscos, natural wine, no bookings. Join the queue before opening."
+  },
+  {
+   "id": "cervejaria-ramiro",
+   "name": "Cervejaria Ramiro",
+   "category": "Food",
+   "area": "Intendente",
+   "address": "Avenida Almirante Reis 1",
+   "lat": 38.7202,
+   "lng": -9.13571,
+   "note": "A loud seafood hall: carabineiros, clams in garlic, then a steak sandwich for dessert. A Lisbon institution. Go late."
+  }
+ ],
+ "version": "talisman-0.2",
+ "slug": "lisbon"
+}

@@ -1,7 +1,7 @@
 {
-  "name": "Talisman — Paris",
+  "name": "Talisman — Editorial Atlas",
   "short_name": "Talisman",
-  "description": "A small, hand-curated atlas of Paris.",
+  "description": "A small, hand-curated atlas of European cities.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

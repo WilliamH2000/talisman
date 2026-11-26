@@ -125,6 +125,16 @@
    "lat": 45.48186,
    "lng": 9.18778,
    "note": "The courtyard concept store Carla Sozzani founded in 1990: gallery, bookshop and garden café behind an old Milanese facade. The template many have copied since."
+  },
+  {
+   "id": "nami-hifi",
+   "name": "NAMI Hi-Fi",
+   "category": "Bar",
+   "area": "Brera",
+   "address": "Via Solferino 41",
+   "lat": 45.47965,
+   "lng": 9.18866,
+   "note": "A new listening bar where the room is tuned before it is styled. Restored horn speakers, records chosen with care, a drink in hand. The name means 'wave'; let the evening come and go like one."
   }
  ],
  "version": "talisman-0.3",

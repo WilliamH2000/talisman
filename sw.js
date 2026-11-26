@@ -1,11 +1,11 @@
 /* Talisman service worker */
-const VERSION = 'v7';
+const VERSION = 'v8';
 const SHELL = `talisman-shell-${VERSION}`;
 const MAP = 'talisman-map-v2';
 const MAX_MAP_ITEMS = 2500;
 
 const SHELL_FILES = [
-  './', 'index.html', 'styles.css?v=7', 'app.js?v=7', 'manifest.webmanifest',
+  './', 'index.html', 'styles.css?v=8', 'app.js?v=8', 'manifest.webmanifest',
   'data/cities.json', 'data/paris.json', 'data/london.json', 'data/rome.json', 'data/lisbon.json', 'data/copenhagen.json', 'data/milan.json', 'data/vienna.json', 'data/barcelona.json', 'data/berlin.json', 'data/amsterdam.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/mark.svg', 'icons/favicon.png',
   'vendor/maplibre/maplibre-gl.css', 'vendor/maplibre/maplibre-gl.js'
@@ -36,7 +36,7 @@ async function mapAsset(req) {
   if (hit) return hit;
   try {
     const res = await fetch(req);
-    if (res.ok) { c.put(req, res.clone()); trimMap(); }
+    if (res.ok || res.type === 'opaque') { c.put(req, res.clone()); trimMap(); }
     return res;
   } catch { return new Response('', { status: 504 }); }
 }
@@ -70,6 +70,9 @@ self.addEventListener('fetch', e => {
   if (url.hostname === 'tiles.openfreemap.org') {
     e.respondWith(url.pathname.startsWith('/styles/') || !/\.\w+$/.test(url.pathname) ? mapStyle(req) : mapAsset(req));
     return;
+  }
+  if (/(^|\.)wikimedia\.org$/.test(url.hostname) && (url.pathname.includes('Special:FilePath') || url.hostname !== 'commons.wikimedia.org')) {
+    e.respondWith(mapAsset(req)); return;
   }
   if (url.origin === self.location.origin) {
     if (req.mode === 'navigate') { e.respondWith(networkFirst(new Request('index.html'))); return; }

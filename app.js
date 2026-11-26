@@ -235,7 +235,7 @@
       const k = key(p.id);
       const li = el('li', 'item' + (state.visited.has(k) ? ' visited' : '') + (state.saved.has(k) ? ' saved' : ''));
       li.tabIndex = 0;
-      li.innerHTML = `<span class="glyph">${glyph(p.category)}</span>
+      li.innerHTML = `${p.photo ? `<span class="thumb"><img src="${photoUrl(p, 160)}" alt="" loading="lazy" onerror="this.remove()"></span>` : `<span class="glyph">${glyph(p.category)}</span>`}
         <div><h3>${esc(p.name)}</h3>
         <div class="meta">${esc(p.category)} · ${esc(p.area)}${state.visited.has(k) ? ' · visited' : state.saved.has(k) ? ' · <span class="saved-tag">saved</span>' : ''}</div></div>
         <span class="dist">${state.me && p._d != null && p._d < 100000 ? fmtDist(p._d).replace(' · ', '<br>') : ''}</span>`;
@@ -263,6 +263,10 @@
     qT = setTimeout(() => { state.q = e.target.value.trim(); renderList(); refreshMarkers(); }, 120);
   });
 
+  // ---------- photos (Wikimedia Commons, openly licensed) ----------
+  const photoUrl = (p, w) => `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(p.photo.file)}?width=${w}`;
+  const mapsUrl = p => p.maps || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.name + ', ' + (state.cities.get(state.slug)?.city || ''))}`;
+
   // ---------- detail ----------
   function directionsUrl(p) {
     return isIOS
@@ -277,11 +281,14 @@
     $('#listView').classList.add('hidden'); $('#detailView').classList.remove('hidden');
     $('#backLabel').textContent = state.cities.get(state.slug)?.city || 'All places';
     const isSaved = state.saved.has(k), isVisited = state.visited.has(k);
-    $('#detail').innerHTML = `${SEAL}
+    const fig = p.photo ? `<figure class="photo"><img src="${photoUrl(p, 1000)}" alt="${esc(p.name)}" loading="lazy" onerror="this.closest('figure').remove()">
+        <figcaption>Photo: <a href="${p.photo.source}" target="_blank" rel="noopener">${esc(p.photo.by)}</a> · ${esc(p.photo.license)}</figcaption></figure>` : '';
+    $('#detail').innerHTML = `${fig}${SEAL}
       <div class="kicker">${esc(p.category)} · ${esc(p.area)}</div>
       <h2>${esc(p.name)}</h2>
       <p class="addr">${esc(p.address || '')}${state.me && p._d < 100000 ? '<br>' + fmtDist(p._d) + ' walk' : ''}</p>
       <p class="note">${esc(p.note || '')}</p>
+      <a class="gmaps" href="${mapsUrl(p)}" target="_blank" rel="noopener">Open in Google Maps <span aria-hidden="true">↗</span></a>
       ${p.draft ? '<p class="draft">Placeholder copy, to be replaced with Talisman text</p>' : ''}
       <div class="actions">
         <a class="act primary" href="${directionsUrl(p)}" target="_blank" rel="noopener">${ICON.walk}Walk there</a>
@@ -491,7 +498,7 @@
       const res = await fetch('data/cities.json', { cache: 'no-cache' });
       state.index = await res.json();
       state.index.cities.forEach(c => state.cities.set(c.slug, c));
-      $('#sourcesNote').textContent = 'Places researched with ' + state.index.sources.join(', ') + '. All notes written by Talisman.';
+      $('#sourcesNote').textContent = 'Places researched with ' + state.index.sources.join(', ') + '. All notes written by Talisman. Photos from Wikimedia Commons, credited on each place.';
       const h = decodeURIComponent(location.hash.slice(1));
       const [hs, ...rest] = h.split('-'); const hid = rest.join('-');
       const start = state.cities.has(hs) ? hs : state.slug;

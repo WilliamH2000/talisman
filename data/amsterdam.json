@@ -14,7 +14,14 @@
    "address": "Oostzaanstraat 45",
    "lat": 52.39049,
    "lng": 4.87373,
-   "note": "Michel de Klerk's brick ship of social housing, the high point of the Amsterdam School. The museum includes a restored worker's flat."
+   "note": "Michel de Klerk's brick ship of social housing, the high point of the Amsterdam School. The museum includes a restored worker's flat.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Het%20Schip%2C%20Oostzaanstraat%2045%2C%20Amsterdam",
+   "photo": {
+    "file": "Amsterdam_Het_Schip_006.JPG",
+    "by": "Janericloebe",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Het_Schip_006.JPG"
+   }
   },
   {
    "id": "museum-van-loon",
@@ -24,7 +31,14 @@
    "address": "Keizersgracht 672",
    "lat": 52.36346,
    "lng": 4.89338,
-   "note": "A canal house still owned by its family, with a formal garden and a coach house behind. The canal-ring life, from the inside."
+   "note": "A canal house still owned by its family, with a formal garden and a coach house behind. The canal-ring life, from the inside.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Museum%20Van%20Loon%2C%20Keizersgracht%20672%2C%20Amsterdam",
+   "photo": {
+    "file": "Amsterdam_-_Museum_Van_Loon_05.JPG",
+    "by": "Remi Mathis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Museum_Van_Loon_05.JPG"
+   }
   },
   {
    "id": "begijnhof",
@@ -34,7 +48,14 @@
    "address": "Begijnhof",
    "lat": 52.3694,
    "lng": 4.88996,
-   "note": "A hidden courtyard of almshouses off the Spui, home to one of the city's two surviving wooden houses. Enter quietly; people live here."
+   "note": "A hidden courtyard of almshouses off the Spui, home to one of the city's two surviving wooden houses. Enter quietly; people live here.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Begijnhof%2C%20Begijnhof%2C%20Amsterdam",
+   "photo": {
+    "file": "BegijnhofAmsterdamPanorama.jpg",
+    "by": "Massimo Catarinella",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BegijnhofAmsterdamPanorama.jpg"
+   }
   },
   {
    "id": "athenaeum",
@@ -44,7 +65,8 @@
    "address": "Spui 14–16",
    "lat": 52.36891,
    "lng": 4.88908,
-   "note": "A bookshop and newsroom on the Spui, with international magazines by the wall. Pair it with the Begijnhof next door."
+   "note": "A bookshop and newsroom on the Spui, with international magazines by the wall. Pair it with the Begijnhof next door.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Athenaeum%20Boekhandel%2C%20Spui%2014%E2%80%9316%2C%20Amsterdam"
   },
   {
    "id": "t-smalle",
@@ -54,7 +76,8 @@
    "address": "Egelantiersgracht 12",
    "lat": 52.37672,
    "lng": 4.88414,
-   "note": "A brown café in an 18th-century jenever distillery, with a few tables on a canal-side jetty. Arrive early on a fine afternoon."
+   "note": "A brown café in an 18th-century jenever distillery, with a few tables on a canal-side jetty. Arrive early on a fine afternoon.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20%27t%20Smalle%2C%20Egelantiersgracht%2012%2C%20Amsterdam"
   },
   {
    "id": "rijksmuseum-library",
@@ -64,7 +87,14 @@
    "address": "Museumstraat 1",
    "lat": 52.35984,
    "lng": 4.88504,
-   "note": "Cuypers' cast-iron library of galleries and spiral stairs, inside the Rijksmuseum. Find it after the Night Watch."
+   "note": "Cuypers' cast-iron library of galleries and spiral stairs, inside the Rijksmuseum. Find it after the Night Watch.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%20Library%2C%20Museumstraat%201%2C%20Amsterdam",
+   "photo": {
+    "file": "Rijks_Museum_Library.jpg",
+    "by": "Michael D Beckwith",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rijks_Museum_Library.jpg"
+   }
   },
   {
    "id": "stedelijk",
@@ -74,7 +104,14 @@
    "address": "Museumplein 10",
    "lat": 52.3579,
    "lng": 4.87986,
-   "note": "Modern art and design, in a 19th-century building joined to a white 'bathtub' wing. Strong on Mondrian, Rietveld and De Stijl."
+   "note": "Modern art and design, in a 19th-century building joined to a white 'bathtub' wing. Strong on Mondrian, Rietveld and De Stijl.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Stedelijk%20Museum%2C%20Museumplein%2010%2C%20Amsterdam",
+   "photo": {
+    "file": "De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg",
+    "by": "John Lewis Marshall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg"
+   }
   },
   {
    "id": "eye",
@@ -84,7 +121,14 @@
    "address": "IJpromenade 1",
    "lat": 52.38434,
    "lng": 4.90081,
-   "note": "A white angular hull on the far bank of the IJ. Take the free ferry from Centraal, watch a film, then a drink by the water."
+   "note": "A white angular hull on the far bank of the IJ. Take the free ferry from Centraal, watch a film, then a drink by the water.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Eye%20Filmmuseum%2C%20IJpromenade%201%2C%20Amsterdam",
+   "photo": {
+    "file": "EYE_Filmmuseum.jpg",
+    "by": "Jvhertum",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EYE_Filmmuseum.jpg"
+   }
   },
   {
    "id": "hortus",
@@ -94,7 +138,14 @@
    "address": "Plantage Middenlaan 2a",
    "lat": 52.36681,
    "lng": 4.90778,
-   "note": "One of the world's oldest botanical gardens, with a glasshouse of three climates. A green pause in the Plantage."
+   "note": "One of the world's oldest botanical gardens, with a glasshouse of three climates. A green pause in the Plantage.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Hortus%20Botanicus%2C%20Plantage%20Middenlaan%202a%2C%20Amsterdam",
+   "photo": {
+    "file": "De_Plantage_(17).jpg",
+    "by": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:De_Plantage_%2817%29.jpg"
+   }
   },
   {
    "id": "de-kas",
@@ -104,7 +155,8 @@
    "address": "Kamerlingh Onneslaan 3",
    "lat": 52.35231,
    "lng": 4.93056,
-   "note": "Dinner in a 1920s municipal greenhouse, cooking from what grows in its own beds. Light, glass and vegetables."
+   "note": "Dinner in a 1920s municipal greenhouse, cooking from what grows in its own beds. Light, glass and vegetables.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=De%20Kas%2C%20Kamerlingh%20Onneslaan%203%2C%20Amsterdam"
   }
  ],
  "version": "talisman-0.3",

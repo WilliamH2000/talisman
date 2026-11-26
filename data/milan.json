@@ -14,7 +14,14 @@
    "address": "Via Mozart 14",
    "lat": 45.46822,
    "lng": 9.20183,
-   "note": "Portaluppi's 1930s villa for an industrial family: marble, walnut, a garden with a heated pool behind tall hedges. Milanese restraint at its most luxurious."
+   "note": "Portaluppi's 1930s villa for an industrial family: marble, walnut, a garden with a heated pool behind tall hedges. Milanese restraint at its most luxurious.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Villa%20Necchi%20Campiglio%2C%20Via%20Mozart%2014%2C%20Milan",
+   "photo": {
+    "file": "Villa_Necchi_Campiglio_20220818-174847.jpg",
+    "by": "Thomas Kowalski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Necchi_Campiglio_20220818-174847.jpg"
+   }
   },
   {
    "id": "fondazione-prada",
@@ -24,7 +31,14 @@
    "address": "Largo Isarco 2",
    "lat": 45.444,
    "lng": 9.20541,
-   "note": "OMA's conversion of an old distillery, with one building dipped in gold leaf. Stay for Bar Luce, Wes Anderson's pastel café by the entrance."
+   "note": "OMA's conversion of an old distillery, with one building dipped in gold leaf. Stay for Bar Luce, Wes Anderson's pastel café by the entrance.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Fondazione%20Prada%2C%20Largo%20Isarco%202%2C%20Milan",
+   "photo": {
+    "file": "Fondazione_PRADA,_Milano,_Via_Ripamonti_-_Largo_Isarco_area.jpg",
+    "by": "DesignerToparchitect",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fondazione_PRADA%2C_Milano%2C_Via_Ripamonti_-_Largo_Isarco_area.jpg"
+   }
   },
   {
    "id": "san-maurizio",
@@ -34,7 +48,14 @@
    "address": "Corso Magenta 15",
    "lat": 45.46541,
    "lng": 9.17896,
-   "note": "A plain church wall hiding a fully frescoed interior, Luini's workshop end to end. The nuns' hall behind the screen is the real surprise. Free."
+   "note": "A plain church wall hiding a fully frescoed interior, Luini's workshop end to end. The nuns' hall behind the screen is the real surprise. Free.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=San%20Maurizio%20al%20Monastero%20Maggiore%2C%20Corso%20Magenta%2015%2C%20Milan",
+   "photo": {
+    "file": "095MilanoSMaurizio.JPG",
+    "by": "MarkusMark",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:095MilanoSMaurizio.JPG"
+   }
   },
   {
    "id": "poldi-pezzoli",
@@ -44,7 +65,14 @@
    "address": "Via Manzoni 12",
    "lat": 45.46847,
    "lng": 9.19178,
-   "note": "A collector's apartment kept intact, armour downstairs and Pollaiuolo's profile portrait of a young woman upstairs. Intimate, and rarely busy."
+   "note": "A collector's apartment kept intact, armour downstairs and Pollaiuolo's profile portrait of a young woman upstairs. Intimate, and rarely busy.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Museo%20Poldi%20Pezzoli%2C%20Via%20Manzoni%2012%2C%20Milan",
+   "photo": {
+    "file": "Il_palazzo_che_ospita_il_Museo_Poldi-Pezzoli_in_via_Manzoni,_Milano.jpg",
+    "by": "Paolobon140",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Il_palazzo_che_ospita_il_Museo_Poldi-Pezzoli_in_via_Manzoni%2C_Milano.jpg"
+   }
   },
   {
    "id": "boschi-di-stefano",
@@ -54,7 +82,14 @@
    "address": "Via Giorgio Jan 15",
    "lat": 45.47903,
    "lng": 9.21175,
-   "note": "A couple's apartment hung floor to ceiling with 20th-century Italian art, in a Portaluppi building. Free, and you may have it to yourself."
+   "note": "A couple's apartment hung floor to ceiling with 20th-century Italian art, in a Portaluppi building. Free, and you may have it to yourself.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Casa%20Museo%20Boschi%20Di%20Stefano%2C%20Via%20Giorgio%20Jan%2015%2C%20Milan",
+   "photo": {
+    "file": "Casa_museo_Boschi-Di_Stefano_Milano.jpg",
+    "by": "Lauraderiu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_museo_Boschi-Di_Stefano_Milano.jpg"
+   }
   },
   {
    "id": "triennale",
@@ -64,7 +99,8 @@
    "address": "Viale Alemagna 6",
    "lat": 45.47159,
    "lng": 9.17309,
-   "note": "Muzio's 1933 palazzo for design, on the edge of Parco Sempione. See the design museum, then take a drink on the terrace above the park."
+   "note": "Muzio's 1933 palazzo for design, on the edge of Parco Sempione. See the design museum, then take a drink on the terrace above the park.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Triennale%20Milano%2C%20Viale%20Alemagna%206%2C%20Milan"
   },
   {
    "id": "castiglioni-studio",
@@ -74,7 +110,8 @@
    "address": "Piazza Castello 27",
    "lat": 45.46956,
    "lng": 9.17731,
-   "note": "The great designer's studio as he left it: prototypes, found objects, toys and drawings. Seen by guided tour only; book ahead."
+   "note": "The great designer's studio as he left it: prototypes, found objects, toys and drawings. Seen by guided tour only; book ahead.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Studio%20Museo%20Achille%20Castiglioni%2C%20Piazza%20Castello%2027%2C%20Milan"
   },
   {
    "id": "armani-silos",
@@ -84,7 +121,14 @@
    "address": "Via Bergognone 40",
    "lat": 45.45151,
    "lng": 9.16469,
-   "note": "A former 1950s granary turned into Giorgio Armani's archive of four decades of clothes. Concrete, low light, total control."
+   "note": "A former 1950s granary turned into Giorgio Armani's archive of four decades of clothes. Concrete, low light, total control.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Armani/Silos%2C%20Via%20Bergognone%2040%2C%20Milan",
+   "photo": {
+    "file": "Armani_silos.jpg",
+    "by": "Anna Bombińska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Armani_silos.jpg"
+   }
   },
   {
    "id": "torre-velasca",
@@ -94,7 +138,8 @@
    "address": "Piazza Velasca 5",
    "lat": 45.45991,
    "lng": 9.19074,
-   "note": "BBPR's 1958 mushroom-shaped tower, a medieval silhouette in reinforced concrete. Best seen from the small piazza at its foot."
+   "note": "BBPR's 1958 mushroom-shaped tower, a medieval silhouette in reinforced concrete. Best seen from the small piazza at its foot.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Torre%20Velasca%2C%20Piazza%20Velasca%205%2C%20Milan"
   },
   {
    "id": "bosco-verticale",
@@ -104,7 +149,8 @@
    "address": "Via Gaetano de Castillia 11",
    "lat": 45.48674,
    "lng": 9.19126,
-   "note": "Boeri's two towers planted with hundreds of trees, a forest stacked on balconies. Walk around it from the Biblioteca degli Alberi park."
+   "note": "Boeri's two towers planted with hundreds of trees, a forest stacked on balconies. Walk around it from the Biblioteca degli Alberi park.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Bosco%20Verticale%2C%20Via%20Gaetano%20de%20Castillia%2011%2C%20Milan"
   },
   {
    "id": "pasticceria-marchesi",
@@ -114,7 +160,8 @@
    "address": "Via Santa Maria alla Porta 11a",
    "lat": 45.46549,
    "lng": 9.18065,
-   "note": "A pastry shop dating from 1824, wood-panelled and mirrored. Espresso standing at the counter, a brioche, then on your way."
+   "note": "A pastry shop dating from 1824, wood-panelled and mirrored. Espresso standing at the counter, a brioche, then on your way.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Pasticceria%20Marchesi%2C%20Via%20Santa%20Maria%20alla%20Porta%2011a%2C%20Milan"
   },
   {
    "id": "10-corso-como",
@@ -124,7 +171,8 @@
    "address": "Corso Como 10",
    "lat": 45.48186,
    "lng": 9.18778,
-   "note": "The courtyard concept store Carla Sozzani founded in 1990: gallery, bookshop and garden café behind an old Milanese facade. The template many have copied since."
+   "note": "The courtyard concept store Carla Sozzani founded in 1990: gallery, bookshop and garden café behind an old Milanese facade. The template many have copied since.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=10%20Corso%20Como%2C%20Corso%20Como%2010%2C%20Milan"
   },
   {
    "id": "nami-hifi",
@@ -134,7 +182,8 @@
    "address": "Via Solferino 41",
    "lat": 45.47965,
    "lng": 9.18866,
-   "note": "A new listening bar where the room is tuned before it is styled. Restored horn speakers, records chosen with care, a drink in hand. The name means 'wave'; let the evening come and go like one."
+   "note": "A new listening bar where the room is tuned before it is styled. Restored horn speakers, records chosen with care, a drink in hand. The name means 'wave'; let the evening come and go like one.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=NAMI%20Hi-Fi%2C%20Via%20Solferino%2041%2C%20Milan"
   }
  ],
  "version": "talisman-0.3",

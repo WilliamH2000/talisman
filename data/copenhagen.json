@@ -14,7 +14,14 @@
    "address": "Bredgade 68",
    "lat": 55.68637,
    "lng": 12.59441,
-   "note": "A rococo hospital turned into the story of the Danish chair. The garden courtyard is a calm reset after Bredgade."
+   "note": "A rococo hospital turned into the story of the Danish chair. The garden courtyard is a calm reset after Bredgade.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Designmuseum%20Danmark%2C%20Bredgade%2068%2C%20Copenhagen",
+   "photo": {
+    "file": "Designmuseum_Danmark.jpg",
+    "by": "Patti Manolis",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Designmuseum_Danmark.jpg"
+   }
   },
   {
    "id": "grundtvigs-kirke",
@@ -24,7 +31,14 @@
    "address": "På Bjerget 14B",
    "lat": 55.71659,
    "lng": 12.53386,
-   "note": "An expressionist cathedral built from six million yellow bricks, organ-pipe facade and all. Inside, nothing but brick and light."
+   "note": "An expressionist cathedral built from six million yellow bricks, organ-pipe facade and all. Inside, nothing but brick and light.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Grundtvig%27s%20Church%2C%20P%C3%A5%20Bjerget%2014B%2C%20Copenhagen",
+   "photo": {
+    "file": "Grundtvig’s_Church_02_(level_and_colour_adjust).jpg",
+    "by": "Haydn Blackey",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grundtvig%E2%80%99s_Church_02_%28level_and_colour_adjust%29.jpg"
+   }
   },
   {
    "id": "cisternerne",
@@ -34,7 +48,14 @@
    "address": "Søndermarken",
    "lat": 55.66959,
    "lng": 12.5242,
-   "note": "A disused underground reservoir beneath a park, now dark, wet and used for exhibitions. Only glass pyramids give it away above ground."
+   "note": "A disused underground reservoir beneath a park, now dark, wet and used for exhibitions. Only glass pyramids give it away above ground.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Cisternerne%2C%20S%C3%B8ndermarken%2C%20Copenhagen",
+   "photo": {
+    "file": "Søndermarken_-_Cisternerne.jpg",
+    "by": "discosour",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%B8ndermarken_-_Cisternerne.jpg"
+   }
   },
   {
    "id": "black-diamond",
@@ -44,7 +65,14 @@
    "address": "Søren Kierkegaards Plads 1",
    "lat": 55.67355,
    "lng": 12.58286,
-   "note": "The Royal Library's black granite extension, leaning over the harbour. Walk through the glass atrium into the quiet old reading rooms."
+   "note": "The Royal Library's black granite extension, leaning over the harbour. Walk through the glass atrium into the quiet old reading rooms.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=The%20Black%20Diamond%2C%20S%C3%B8ren%20Kierkegaards%20Plads%201%2C%20Copenhagen",
+   "photo": {
+    "file": "Det_Kongelige_Bibliotek_Copenhagen.jpg",
+    "by": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Det_Kongelige_Bibliotek_Copenhagen.jpg"
+   }
   },
   {
    "id": "superkilen",
@@ -54,7 +82,14 @@
    "address": "Nørrebrogade 210",
    "lat": 55.69968,
    "lng": 12.5424,
-   "note": "A kilometre-long park of objects from 60 countries, by BIG, Topotek 1 and Superflex. The red square, black market and green park each play differently."
+   "note": "A kilometre-long park of objects from 60 countries, by BIG, Topotek 1 and Superflex. The red square, black market and green park each play differently.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Superkilen%2C%20N%C3%B8rrebrogade%20210%2C%20Copenhagen",
+   "photo": {
+    "file": "Superkilen_hill-top_view.jpg",
+    "by": "Emily",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_hill-top_view.jpg"
+   }
   },
   {
    "id": "assistens",
@@ -64,7 +99,14 @@
    "address": "Kapelvej 2",
    "lat": 55.69092,
    "lng": 12.54944,
-   "note": "A cemetery that works as a park. Kierkegaard and Hans Christian Andersen lie among the lime trees, and locals picnic nearby."
+   "note": "A cemetery that works as a park. Kierkegaard and Hans Christian Andersen lie among the lime trees, and locals picnic nearby.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Assistens%20Kirkeg%C3%A5rd%2C%20Kapelvej%202%2C%20Copenhagen",
+   "photo": {
+    "file": "Assistens_Kirkegård_1.jpg",
+    "by": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Assistens_Kirkeg%C3%A5rd_1.jpg"
+   }
   },
   {
    "id": "arne-jacobsen-royal",
@@ -74,7 +116,14 @@
    "address": "Hammerichsgade 1",
    "lat": 55.67491,
    "lng": 12.56377,
-   "note": "Arne Jacobsen's 1960 tower, the first design hotel. Room 606 is kept as he furnished it, Egg chairs included."
+   "note": "Arne Jacobsen's 1960 tower, the first design hotel. Room 606 is kept as he furnished it, Egg chairs included.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Radisson%20Collection%20Royal%20Hotel%2C%20Hammerichsgade%201%2C%20Copenhagen",
+   "photo": {
+    "file": "SAS_Royal_Hotel,_Copenhagen,_1955-1960.jpg",
+    "by": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SAS_Royal_Hotel%2C_Copenhagen%2C_1955-1960.jpg"
+   }
   },
   {
    "id": "apollo-bar",
@@ -84,7 +133,8 @@
    "address": "Nyhavn 2",
    "lat": 55.67987,
    "lng": 12.5884,
-   "note": "A museum café in the courtyard of Kunsthal Charlottenborg, lit by PH lamps. Breakfast to late wine, a few steps and a world away from Nyhavn."
+   "note": "A museum café in the courtyard of Kunsthal Charlottenborg, lit by PH lamps. Breakfast to late wine, a few steps and a world away from Nyhavn.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Apollo%20Bar%2C%20Nyhavn%202%2C%20Copenhagen"
   },
   {
    "id": "hart-bageri",
@@ -94,7 +144,8 @@
    "address": "Gammel Kongevej 109",
    "lat": 55.67538,
    "lng": 12.5455,
-   "note": "Richard Hart's sourdough bakery on Gammel Kongevej. The cardamom bun is the order. Arrive early on a Saturday; it sells out."
+   "note": "Richard Hart's sourdough bakery on Gammel Kongevej. The cardamom bun is the order. Arrive early on a Saturday; it sells out.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Hart%20Bageri%2C%20Gammel%20Kongevej%20109%2C%20Copenhagen"
   },
   {
    "id": "copenhill",
@@ -104,7 +155,14 @@
    "address": "Vindmøllevej 6",
    "lat": 55.68474,
    "lng": 12.62063,
-   "note": "A waste-to-energy plant with a ski slope on its roof. BIG's landmark that is also a park; walk the trail up for the harbour view."
+   "note": "A waste-to-energy plant with a ski slope on its roof. BIG's landmark that is also a park; walk the trail up for the harbour view.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=CopenHill%2C%20Vindm%C3%B8llevej%206%2C%20Copenhagen",
+   "photo": {
+    "file": "Amager_Bakke_Copenhagen_1.jpg",
+    "by": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amager_Bakke_Copenhagen_1.jpg"
+   }
   }
  ],
  "version": "talisman-0.2",

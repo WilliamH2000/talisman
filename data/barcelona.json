@@ -14,7 +14,14 @@
    "address": "Avinguda Francesc Ferrer i Guàrdia 7",
    "lat": 41.37056,
    "lng": 2.14996,
-   "note": "Mies van der Rohe's 1929 pavilion, rebuilt in 1986: onyx, travertine, still water and free-standing planes. Go early, when it is nearly empty."
+   "note": "Mies van der Rohe's 1929 pavilion, rebuilt in 1986: onyx, travertine, still water and free-standing planes. Go early, when it is nearly empty.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Barcelona%20Pavilion%2C%20Avinguda%20Francesc%20Ferrer%20i%20Gu%C3%A0rdia%207%2C%20Barcelona",
+   "photo": {
+    "file": "The_Barcelona_Pavilion,_Barcelona,_2010.jpg",
+    "by": "Ashley Pomeroy",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg"
+   }
   },
   {
    "id": "fundacio-miro",
@@ -24,7 +31,8 @@
    "address": "Parc de Montjuïc",
    "lat": 41.36864,
    "lng": 2.16008,
-   "note": "Sert's white museum for his friend, top-lit and terraced into the hill. The roof garden looks across the whole city."
+   "note": "Sert's white museum for his friend, top-lit and terraced into the hill. The roof garden looks across the whole city.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3%20Joan%20Mir%C3%B3%2C%20Parc%20de%20Montju%C3%AFc%2C%20Barcelona"
   },
   {
    "id": "casa-vicens",
@@ -34,7 +42,14 @@
    "address": "Carrer de les Carolines 20",
    "lat": 41.40351,
    "lng": 2.15063,
-   "note": "Gaudí's first house, tiled with marigolds, all Moorish exuberance. Far quieter than his later famous works."
+   "note": "Gaudí's first house, tiled with marigolds, all Moorish exuberance. Far quieter than his later famous works.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Casa%20Vicens%2C%20Carrer%20de%20les%20Carolines%2020%2C%20Barcelona",
+   "photo": {
+    "file": "Gaudí_-_Casa_Vicens.JPG",
+    "by": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gaud%C3%AD_-_Casa_Vicens.JPG"
+   }
   },
   {
    "id": "sant-pau",
@@ -44,7 +59,14 @@
    "address": "Carrer de Sant Antoni Maria Claret 167",
    "lat": 41.4151,
    "lng": 2.17414,
-   "note": "Domènech i Montaner's hospital city: tiled pavilions in gardens, linked by underground tunnels. Medicine as architecture."
+   "note": "Domènech i Montaner's hospital city: tiled pavilions in gardens, linked by underground tunnels. Medicine as architecture.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Recinte%20Modernista%20de%20Sant%20Pau%2C%20Carrer%20de%20Sant%20Antoni%20Maria%20Claret%20167%2C%20Barcelona",
+   "photo": {
+    "file": "Hospital_Sant_Pau,_main_facade.jpg",
+    "by": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hospital_Sant_Pau%2C_main_facade.jpg"
+   }
   },
   {
    "id": "palau-musica",
@@ -54,7 +76,14 @@
    "address": "Carrer Palau de la Música 4–6",
    "lat": 41.38758,
    "lng": 2.17523,
-   "note": "A concert hall of glass, mosaic and sculpture, under an inverted stained-glass dome. Better at a concert than on a tour."
+   "note": "A concert hall of glass, mosaic and sculpture, under an inverted stained-glass dome. Better at a concert than on a tour.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Palau%20de%20la%20M%C3%BAsica%20Catalana%2C%20Carrer%20Palau%20de%20la%20M%C3%BAsica%204%E2%80%936%2C%20Barcelona",
+   "photo": {
+    "file": "Palau_de_musica_2.JPG",
+    "by": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palau_de_musica_2.JPG"
+   }
   },
   {
    "id": "santa-caterina",
@@ -64,7 +93,8 @@
    "address": "Avinguda de Francesc Cambó 16",
    "lat": 41.38614,
    "lng": 2.1785,
-   "note": "Miralles Tagliabue's undulating roof of coloured tiles, a pixelated fruit stall over an old market. Shop for lunch underneath."
+   "note": "Miralles Tagliabue's undulating roof of coloured tiles, a pixelated fruit stall over an old market. Shop for lunch underneath.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mercat%20de%20Santa%20Caterina%2C%20Avinguda%20de%20Francesc%20Camb%C3%B3%2016%2C%20Barcelona"
   },
   {
    "id": "museu-tapies",
@@ -74,7 +104,14 @@
    "address": "Carrer d'Aragó 255",
    "lat": 41.39162,
    "lng": 2.16366,
-   "note": "Tàpies's foundation in an early Domènech building, crowned with a cloud of tangled wire. Tough, material, quiet art."
+   "note": "Tàpies's foundation in an early Domènech building, crowned with a cloud of tangled wire. Tough, material, quiet art.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3%20Antoni%20T%C3%A0pies%2C%20Carrer%20d%27Arag%C3%B3%20255%2C%20Barcelona",
+   "photo": {
+    "file": "Domènech.i.Montaner.Editorial.Montaner.i.Simón.1.Barcelona.JPG",
+    "by": "Yearofthedragon",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Dom%C3%A8nech.i.Montaner.Editorial.Montaner.i.Sim%C3%B3n.1.Barcelona.JPG"
+   }
   },
   {
    "id": "museu-disseny",
@@ -84,7 +121,14 @@
    "address": "Plaça de les Glòries Catalanes 37",
    "lat": 41.4026,
    "lng": 2.18805,
-   "note": "A cantilevered block nicknamed 'the stapler', holding Barcelona's design collections. Chairs, posters, fashion."
+   "note": "A cantilevered block nicknamed 'the stapler', holding Barcelona's design collections. Chairs, posters, fashion.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Museu%20del%20Disseny%2C%20Pla%C3%A7a%20de%20les%20Gl%C3%B2ries%20Catalanes%2037%2C%20Barcelona",
+   "photo": {
+    "file": "Museu_del_Disseny,_Barcelona.jpg",
+    "by": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_del_Disseny%2C_Barcelona.jpg"
+   }
   },
   {
    "id": "la-fabrica",
@@ -94,7 +138,14 @@
    "address": "Avinguda Indústria 14",
    "lat": 41.38108,
    "lng": 2.06851,
-   "note": "Bofill's converted cement works, his home and studio: silos, cypresses, cathedral volumes. Worth the trip out of town; tours are occasional."
+   "note": "Bofill's converted cement works, his home and studio: silos, cypresses, cathedral volumes. Worth the trip out of town; tours are occasional.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=La%20F%C3%A1brica%2C%20Avinguda%20Ind%C3%BAstria%2014%2C%20Barcelona",
+   "photo": {
+    "file": "Taller_d’Arquitectura_Sant_Just_Desvern.jpg",
+    "by": "Till F. Teenck",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Taller_d%E2%80%99Arquitectura_Sant_Just_Desvern.jpg"
+   }
   },
   {
    "id": "el-xampanyet",
@@ -104,7 +155,8 @@
    "address": "Carrer de Montcada 22",
    "lat": 41.38451,
    "lng": 2.18167,
-   "note": "A tiled cava bar in the same family for generations. House cava, anchovies, elbows at the counter."
+   "note": "A tiled cava bar in the same family for generations. House cava, anchovies, elbows at the counter.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=El%20Xampanyet%2C%20Carrer%20de%20Montcada%2022%2C%20Barcelona"
   },
   {
    "id": "bar-canete",
@@ -114,7 +166,8 @@
    "address": "Carrer de la Unió 17",
    "lat": 41.37914,
    "lng": 2.17314,
-   "note": "A long counter and fast, precise tapas cooked in front of you. Sit at the bar, not the tables."
+   "note": "A long counter and fast, precise tapas cooked in front of you. Sit at the bar, not the tables.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Bar%20Ca%C3%B1ete%2C%20Carrer%20de%20la%20Uni%C3%B3%2017%2C%20Barcelona"
   }
  ],
  "version": "talisman-0.3",

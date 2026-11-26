@@ -16,7 +16,14 @@
    "lng": 2.3158,
    "note": "Sculpture set loose in a garden. Go for the rose beds and the light on bronze late in the day.",
    "draft": true,
-   "area": "7e"
+   "area": "7e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Rodin%2C%2077%20Rue%20de%20Varenne%2C%2075007%2C%20Paris",
+   "photo": {
+    "file": "Le_musée_Rodin.jpg",
+    "by": "Dalbera",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_Rodin.jpg"
+   }
   },
   {
    "id": "place-des-vosges",
@@ -27,7 +34,14 @@
    "lng": 2.3655,
    "note": "A perfect square of brick and stone. Walk the arcades once, slowly, end to end.",
    "draft": true,
-   "area": "4e"
+   "area": "4e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Vosges%2C%20Place%20des%20Vosges%2C%2075004%2C%20Paris",
+   "photo": {
+    "file": "Place_des_Vosges_vue_aérienne.png",
+    "by": "Des Racines et des Ailes",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Place_des_Vosges_vue_a%C3%A9rienne.png"
+   }
   },
   {
    "id": "jardin-luxembourg",
@@ -38,7 +52,14 @@
    "lng": 2.3372,
    "note": "Pull a green chair to the Medici fountain and stay longer than you planned.",
    "draft": true,
-   "area": "6e"
+   "area": "6e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Jardin%20du%20Luxembourg%2C%20Rue%20de%20M%C3%A9dicis%20/%20Rue%20de%20Vaugirard%2C%2075006%2C%20Paris",
+   "photo": {
+    "file": "LuxembourgMontparnasse.JPG",
+    "by": "Kirua",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:LuxembourgMontparnasse.JPG"
+   }
   },
   {
    "id": "palais-de-tokyo",
@@ -49,7 +70,14 @@
    "lng": 2.2966,
    "note": "Raw concrete halls for the contemporary. The terrace looks straight at the river.",
    "draft": true,
-   "area": "16e"
+   "area": "16e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20Tokyo%2C%2013%20Avenue%20du%20Pr%C3%A9sident%20Wilson%2C%2075116%2C%20Paris",
+   "photo": {
+    "file": "Palais_de_Tokyo_@_Paris_(31028565970).jpg",
+    "by": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_de_Tokyo_%40_Paris_%2831028565970%29.jpg"
+   }
   },
   {
    "id": "shakespeare-and-company",
@@ -60,7 +88,14 @@
    "lng": 2.3471,
    "note": "Climb to the reading room upstairs. Notre-Dame sits across the water.",
    "draft": true,
-   "area": "5e"
+   "area": "5e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Shakespeare%20and%20Company%2C%2037%20Rue%20de%20la%20B%C3%BBcherie%2C%2075005%2C%20Paris",
+   "photo": {
+    "file": "Shakespeare_and_Company_bookstore,_Paris_13_August_2013.jpg",
+    "by": "Shadowgate",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_bookstore%2C_Paris_13_August_2013.jpg"
+   }
   },
   {
    "id": "orangerie",
@@ -71,7 +106,14 @@
    "lng": 2.3227,
    "note": "Two oval rooms built around Monet's water lilies. Daylight comes from above.",
    "draft": true,
-   "area": "1er"
+   "area": "1er",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20l%27Orangerie%2C%20Jardin%20des%20Tuileries%2C%2075001%2C%20Paris",
+   "photo": {
+    "file": "Musée_de_l’Orangerie_exterior.JPG",
+    "by": "Homonihilis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG"
+   }
   },
   {
    "id": "bourse-de-commerce",
@@ -82,7 +124,14 @@
    "lng": 2.3428,
    "note": "Tadao Ando's concrete cylinder set inside an 18th-century rotunda. Walk the upper ring.",
    "draft": true,
-   "area": "1er"
+   "area": "1er",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Bourse%20de%20Commerce%2C%202%20Rue%20de%20Viarmes%2C%2075001%2C%20Paris",
+   "photo": {
+    "file": "Bourse_Commerce_-_Paris_I_(FR75)_-_2021-06-05_-_1.jpg",
+    "by": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bourse_Commerce_-_Paris_I_%28FR75%29_-_2021-06-05_-_1.jpg"
+   }
   },
   {
    "id": "fondation-louis-vuitton",
@@ -93,7 +142,14 @@
    "lng": 2.2633,
    "note": "Gehry's glass sails at the edge of the Bois. The roof terraces are the building.",
    "draft": true,
-   "area": "16e"
+   "area": "16e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Fondation%20Louis%20Vuitton%2C%208%20Avenue%20du%20Mahatma%20Gandhi%2C%2075116%2C%20Paris",
+   "photo": {
+    "file": "Jardin_d'acclimatation_-_Fondation_Louis_Vuitton.jpg",
+    "by": "Moktarama",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jardin_d%27acclimatation_-_Fondation_Louis_Vuitton.jpg"
+   }
   },
   {
    "id": "maison-la-roche",
@@ -104,7 +160,8 @@
    "lng": 2.2654,
    "note": "Early Le Corbusier. The ramp in the gallery is a lesson in promenade.",
    "draft": true,
-   "area": "16e"
+   "area": "16e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Maison%20La%20Roche%2C%2010%20Square%20du%20Docteur%20Blanche%2C%2075016%2C%20Paris"
   },
   {
    "id": "institut-monde-arabe",
@@ -115,7 +172,14 @@
    "lng": 2.3572,
    "note": "Nouvel's south facade of mechanical apertures. Free rooftop over the Seine.",
    "draft": true,
-   "area": "5e"
+   "area": "5e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Institut%20du%20monde%20arabe%2C%201%20Rue%20des%20Foss%C3%A9s%20Saint-Bernard%2C%2075005%2C%20Paris",
+   "photo": {
+    "file": "Institut_du_Monde_Arabe_au_bord_de_la_Seine.jpg",
+    "by": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institut_du_Monde_Arabe_au_bord_de_la_Seine.jpg"
+   }
   },
   {
    "id": "buttes-chaumont",
@@ -126,7 +190,14 @@
    "lng": 2.3828,
    "note": "A former quarry turned picturesque. Climb to the temple on the cliff.",
    "draft": true,
-   "area": "19e"
+   "area": "19e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Parc%20des%20Buttes-Chaumont%2C%201%20Rue%20Botzaris%2C%2075019%2C%20Paris",
+   "photo": {
+    "file": "Passerelle_suspendue,_Buttes_Chaumont,_Paris_14_April_2014.jpg",
+    "by": "Clem",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_suspendue%2C_Buttes_Chaumont%2C_Paris_14_April_2014.jpg"
+   }
   },
   {
    "id": "coulee-verte",
@@ -137,7 +208,14 @@
    "lng": 2.373,
    "note": "An elevated rail line planted as a walk. Start near Bastille and head east.",
    "draft": true,
-   "area": "12e"
+   "area": "12e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Coul%C3%A9e%20verte%20Ren%C3%A9-Dumont%2C%20Avenue%20Daumesnil%2C%2075012%2C%20Paris",
+   "photo": {
+    "file": "Coulée_Verte_René-Dumont_@_Paris_(28647219163).jpg",
+    "by": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coul%C3%A9e_Verte_Ren%C3%A9-Dumont_%40_Paris_%2828647219163%29.jpg"
+   }
   },
   {
    "id": "musee-bourdelle",
@@ -148,7 +226,14 @@
    "lng": 2.3195,
    "note": "The sculptor's studios, kept close to how he left them. Quiet, and rarely full.",
    "draft": true,
-   "area": "15e"
+   "area": "15e",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Bourdelle%2C%2018%20Rue%20Antoine%20Bourdelle%2C%2075015%2C%20Paris",
+   "photo": {
+    "file": "Le_jardin_du_--musée_Bourdelle--_à_Paris.JPG",
+    "by": "Langladure",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_jardin_du_--mus%C3%A9e_Bourdelle--_%C3%A0_Paris.JPG"
+   }
   }
  ],
  "slug": "paris",

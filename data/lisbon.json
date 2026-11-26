@@ -14,7 +14,8 @@
    "address": "Avenida de Berna 45A",
    "lat": 38.73782,
    "lng": -9.15351,
-   "note": "Sixties modernism set in a wild garden of streams and stone paths. Ancient Egypt to Lalique inside. The garden alone is worth the trip."
+   "note": "Sixties modernism set in a wild garden of streams and stone paths. Ancient Egypt to Lalique inside. The garden alone is worth the trip.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Gulbenkian%20Museum%20%26%20Garden%2C%20Avenida%20de%20Berna%2045A%2C%20Lisbon"
   },
   {
    "id": "maat",
@@ -24,7 +25,14 @@
    "address": "Avenida Brasília",
    "lat": 38.69593,
    "lng": -9.19362,
-   "note": "A low wave of white tiles on the Tejo, its roof a walkway you can climb. Next door, the old red-brick power station is part of the museum."
+   "note": "A low wave of white tiles on the Tejo, its roof a walkway you can climb. Next door, the old red-brick power station is part of the museum.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=MAAT%2C%20Avenida%20Bras%C3%ADlia%2C%20Lisbon",
+   "photo": {
+    "file": "Exterior_of_Museu_de_Arte,_Arquitetura_e_Tecnologia_67.jpg",
+    "by": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg"
+   }
   },
   {
    "id": "pavilhao-de-portugal",
@@ -34,7 +42,14 @@
    "address": "Alameda dos Oceanos",
    "lat": 38.76634,
    "lng": -9.09498,
-   "note": "Siza's concrete canopy, hung like a sheet of paper between two porticoes. One of the great architectural gestures of the late 20th century. Stand beneath it."
+   "note": "Siza's concrete canopy, hung like a sheet of paper between two porticoes. One of the great architectural gestures of the late 20th century. Stand beneath it.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Pavilh%C3%A3o%20de%20Portugal%2C%20Alameda%20dos%20Oceanos%2C%20Lisbon",
+   "photo": {
+    "file": "Pavilhão_de_Portugal_4.JPG",
+    "by": "Paulo Juntas",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavilh%C3%A3o_de_Portugal_4.JPG"
+   }
   },
   {
    "id": "museu-azulejo",
@@ -44,7 +59,14 @@
    "address": "Rua da Madre de Deus 4",
    "lat": 38.72472,
    "lng": -9.11391,
-   "note": "Five centuries of tiles in a former convent, gilded chapel included. The long panorama of pre-earthquake Lisbon is the piece to find."
+   "note": "Five centuries of tiles in a former convent, gilded chapel included. The long panorama of pre-earthquake Lisbon is the piece to find.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Museu%20Nacional%20do%20Azulejo%2C%20Rua%20da%20Madre%20de%20Deus%204%2C%20Lisbon",
+   "photo": {
+    "file": "Convento_da_Madre_de_Deus_-_Lisboa_-_Portugal_(46913633574).jpg",
+    "by": "Vitor Oliveira",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Convento_da_Madre_de_Deus_-_Lisboa_-_Portugal_%2846913633574%29.jpg"
+   }
   },
   {
    "id": "senhora-do-monte",
@@ -54,7 +76,8 @@
    "address": "Largo Monte",
    "lat": 38.71908,
    "lng": -9.13291,
-   "note": "The highest viewpoint in the old city, with the castle and the river in one look. Quieter than the famous lookouts; come at dusk."
+   "note": "The highest viewpoint in the old city, with the castle and the river in one look. Quieter than the famous lookouts; come at dusk.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Senhora%20do%20Monte%2C%20Largo%20Monte%2C%20Lisbon"
   },
   {
    "id": "igreja-sao-roque",
@@ -64,7 +87,14 @@
    "address": "Largo Trindade Coelho",
    "lat": 38.71362,
    "lng": -9.14343,
-   "note": "A plain facade hiding one of the richest interiors in Europe. The chapel of St John the Baptist was built in Rome, then shipped to Lisbon in pieces."
+   "note": "A plain facade hiding one of the richest interiors in Europe. The chapel of St John the Baptist was built in Rome, then shipped to Lisbon in pieces.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Igreja%20de%20S%C3%A3o%20Roque%2C%20Largo%20Trindade%20Coelho%2C%20Lisbon",
+   "photo": {
+    "file": "Exterior_of_Igreja_de_São_Roque_(Lisbon)_63.jpg",
+    "by": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Igreja_de_S%C3%A3o_Roque_%28Lisbon%29_63.jpg"
+   }
   },
   {
    "id": "ler-devagar",
@@ -74,7 +104,8 @@
    "address": "LX Factory, Rua Rodrigues de Faria 103",
    "lat": 38.70276,
    "lng": -9.17861,
-   "note": "A bookshop in an old printing works, shelves two storeys high and a bicycle flying overhead. Its name means 'read slowly'."
+   "note": "A bookshop in an old printing works, shelves two storeys high and a bicycle flying overhead. Its name means 'read slowly'.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Ler%20Devagar%2C%20LX%20Factory%2C%20Rua%20Rodrigues%20de%20Faria%20103%2C%20Lisbon"
   },
   {
    "id": "a-vida-portuguesa",
@@ -84,7 +115,8 @@
    "address": "Rua Nova do Almada",
    "lat": 38.71013,
    "lng": -9.13922,
-   "note": "Heritage Portuguese goods, from soaps and sardine tins to enamelware, in an old shop space. The best souvenirs in Lisbon, and none of them tacky."
+   "note": "Heritage Portuguese goods, from soaps and sardine tins to enamelware, in an old shop space. The best souvenirs in Lisbon, and none of them tacky.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=A%20Vida%20Portuguesa%2C%20Rua%20Nova%20do%20Almada%2C%20Lisbon"
   },
   {
    "id": "embaixada",
@@ -94,7 +126,8 @@
    "address": "Praça do Príncipe Real 26",
    "lat": 38.71688,
    "lng": -9.14831,
-   "note": "A 19th-century neo-Moorish palace now full of Portuguese designers. Climb the main stair for the courtyard and the ceilings."
+   "note": "A 19th-century neo-Moorish palace now full of Portuguese designers. Climb the main stair for the courtyard and the ceilings.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Embaixada%2C%20Pra%C3%A7a%20do%20Pr%C3%ADncipe%20Real%2026%2C%20Lisbon"
   },
   {
    "id": "taberna-rua-das-flores",
@@ -104,7 +137,8 @@
    "address": "Rua das Flores 103",
    "lat": 38.71014,
    "lng": -9.14359,
-   "note": "A tiny tasca with the day's menu read aloud from a chalkboard. Petiscos, natural wine, no bookings. Join the queue before opening."
+   "note": "A tiny tasca with the day's menu read aloud from a chalkboard. Petiscos, natural wine, no bookings. Join the queue before opening.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Taberna%20da%20Rua%20das%20Flores%2C%20Rua%20das%20Flores%20103%2C%20Lisbon"
   },
   {
    "id": "cervejaria-ramiro",
@@ -114,7 +148,8 @@
    "address": "Avenida Almirante Reis 1",
    "lat": 38.7202,
    "lng": -9.13571,
-   "note": "A loud seafood hall: carabineiros, clams in garlic, then a steak sandwich for dessert. A Lisbon institution. Go late."
+   "note": "A loud seafood hall: carabineiros, clams in garlic, then a steak sandwich for dessert. A Lisbon institution. Go late.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Cervejaria%20Ramiro%2C%20Avenida%20Almirante%20Reis%201%2C%20Lisbon"
   }
  ],
  "version": "talisman-0.2",

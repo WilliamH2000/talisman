@@ -14,7 +14,8 @@
    "address": "Potsdamer Straße 50",
    "lat": 52.50704,
    "lng": 13.36762,
-   "note": "Mies's steel and glass temple of 1968, carefully restored by Chipperfield. The empty upper hall is the exhibit."
+   "note": "Mies's steel and glass temple of 1968, carefully restored by Chipperfield. The empty upper hall is the exhibit.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Neue%20Nationalgalerie%2C%20Potsdamer%20Stra%C3%9Fe%2050%2C%20Berlin"
   },
   {
    "id": "philharmonie",
@@ -24,7 +25,8 @@
    "address": "Herbert-von-Karajan-Straße 1",
    "lat": 52.50999,
    "lng": 13.36961,
-   "note": "Scharoun's tent of gold, the orchestra in the middle and terraces of seats around it. Book a lunchtime concert or a tour."
+   "note": "Scharoun's tent of gold, the orchestra in the middle and terraces of seats around it. Book a lunchtime concert or a tour.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Philharmonie%2C%20Herbert-von-Karajan-Stra%C3%9Fe%201%2C%20Berlin"
   },
   {
    "id": "neues-museum",
@@ -34,7 +36,14 @@
    "address": "Bodestraße 1–3",
    "lat": 52.52016,
    "lng": 13.39774,
-   "note": "Chipperfield's repair of a bombed museum, scars kept, new brick stitched into old. Nefertiti waits under her own dome."
+   "note": "Chipperfield's repair of a bombed museum, scars kept, new brick stitched into old. Nefertiti waits under her own dome.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Neues%20Museum%2C%20Bodestra%C3%9Fe%201%E2%80%933%2C%20Berlin",
+   "photo": {
+    "file": "Berlin_Neues_Museum_001.JPG",
+    "by": "Janericloebe",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Neues_Museum_001.JPG"
+   }
   },
   {
    "id": "juedisches-museum",
@@ -44,7 +53,8 @@
    "address": "Lindenstraße 9–14",
    "lat": 52.50225,
    "lng": 13.39515,
-   "note": "Libeskind's zinc-clad zigzag, cut through with voids you look into but cannot enter. Architecture that makes absence physical."
+   "note": "Libeskind's zinc-clad zigzag, cut through with voids you look into but cannot enter. Architecture that makes absence physical.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%20Berlin%2C%20Lindenstra%C3%9Fe%209%E2%80%9314%2C%20Berlin"
   },
   {
    "id": "sammlung-boros",
@@ -54,7 +64,14 @@
    "address": "Reinhardtstraße 20",
    "lat": 52.52355,
    "lng": 13.384,
-   "note": "A wartime bunker holding a private collection of contemporary art; the owners live on top. Guided tours only, in small groups; book weeks ahead."
+   "note": "A wartime bunker holding a private collection of contemporary art; the owners live on top. Guided tours only, in small groups; book weeks ahead.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sammlung%20Boros%2C%20Reinhardtstra%C3%9Fe%2020%2C%20Berlin",
+   "photo": {
+    "file": "Bunker_Berlin.jpg",
+    "by": "Nicor",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunker_Berlin.jpg"
+   }
   },
   {
    "id": "hamburger-bahnhof",
@@ -64,7 +81,8 @@
    "address": "Invalidenstraße 50–51",
    "lat": 52.52863,
    "lng": 13.37187,
-   "note": "A 19th-century railway terminus for contemporary art, with the long shed behind it for the big installations."
+   "note": "A 19th-century railway terminus for contemporary art, with the long shed behind it for the big installations.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Hamburger%20Bahnhof%2C%20Invalidenstra%C3%9Fe%2050%E2%80%9351%2C%20Berlin"
   },
   {
    "id": "gedaechtniskirche",
@@ -74,7 +92,14 @@
    "address": "Breitscheidplatz",
    "lat": 52.50489,
    "lng": 13.33461,
-   "note": "Eiermann's 1961 octagon of blue glass blocks beside the bombed spire. Step inside and the light turns everything cobalt."
+   "note": "Eiermann's 1961 octagon of blue glass blocks beside the bombed spire. Step inside and the light turns everything cobalt.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kaiser%20Wilhelm%20Memorial%20Church%2C%20Breitscheidplatz%2C%20Berlin",
+   "photo": {
+    "file": "Gedächtniskirche1.JPG",
+    "by": "GerardM",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ged%C3%A4chtniskirche1.JPG"
+   }
   },
   {
    "id": "tempelhofer-feld",
@@ -84,7 +109,14 @@
    "address": "Tempelhofer Damm",
    "lat": 52.47442,
    "lng": 13.4026,
-   "note": "A closed airport given back to the city as open field. Runways for cycling and kites, and the biggest sky in Berlin."
+   "note": "A closed airport given back to the city as open field. Runways for cycling and kites, and the biggest sky in Berlin.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Tempelhofer%20Feld%2C%20Tempelhofer%20Damm%2C%20Berlin",
+   "photo": {
+    "file": "Tempelhofer_Feld_May_2021.jpg",
+    "by": "Coooohen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tempelhofer_Feld_May_2021.jpg"
+   }
   },
   {
    "id": "hufeisensiedlung",
@@ -94,7 +126,14 @@
    "address": "Fritz-Reuter-Allee",
    "lat": 52.44823,
    "lng": 13.44735,
-   "note": "Bruno Taut's horseshoe estate of the 1920s, coloured doors, gardens and all. Modernist housing that is still loved."
+   "note": "Bruno Taut's horseshoe estate of the 1920s, coloured doors, gardens and all. Modernist housing that is still loved.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Hufeisensiedlung%2C%20Fritz-Reuter-Allee%2C%20Berlin",
+   "photo": {
+    "file": "Luftbild_Hufeisen_in_der_Hufeisensiedlung.jpg",
+    "by": "Sebastian Trommer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luftbild_Hufeisen_in_der_Hufeisensiedlung.jpg"
+   }
   },
   {
    "id": "do-you-read-me",
@@ -104,7 +143,8 @@
    "address": "Auguststraße 28",
    "lat": 52.52711,
    "lng": 13.39782,
-   "note": "A small shop for independent magazines on art, design and fashion. Leave with more than you meant to."
+   "note": "A small shop for independent magazines on art, design and fashion. Leave with more than you meant to.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Do%20You%20Read%20Me%3F%21%2C%20Auguststra%C3%9Fe%2028%2C%20Berlin"
   }
  ],
  "version": "talisman-0.3",

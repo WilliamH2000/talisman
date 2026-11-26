@@ -14,7 +14,14 @@
    "address": "Michaelerplatz 3",
    "lat": 48.20838,
    "lng": 16.36674,
-   "note": "Loos's 1911 'house without eyebrows', its bare upper facade set against the Hofburg across the square. The scandal that announced modern Vienna."
+   "note": "Loos's 1911 'house without eyebrows', its bare upper facade set against the Hofburg across the square. The scandal that announced modern Vienna.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Looshaus%2C%20Michaelerplatz%203%2C%20Vienna",
+   "photo": {
+    "file": "Looshaus_Michaelerplatz.JPG",
+    "by": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Looshaus_Michaelerplatz.JPG"
+   }
   },
   {
    "id": "loos-american-bar",
@@ -24,7 +31,14 @@
    "address": "Kärntner Durchgang 10",
    "lat": 48.20722,
    "lng": 16.37124,
-   "note": "A tiny 1908 bar of onyx, marble and mirrors that make it look three times its size. Room for barely twenty; a martini, late."
+   "note": "A tiny 1908 bar of onyx, marble and mirrors that make it look three times its size. Room for barely twenty; a martini, late.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Loos%20American%20Bar%2C%20K%C3%A4rntner%20Durchgang%2010%2C%20Vienna",
+   "photo": {
+    "file": "American_Bar_Adolf_Loos_Vienna_1908_01.jpg",
+    "by": "Christian Ries",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Bar_Adolf_Loos_Vienna_1908_01.jpg"
+   }
   },
   {
    "id": "secession",
@@ -34,7 +48,14 @@
    "address": "Friedrichstraße 12",
    "lat": 48.2005,
    "lng": 16.36577,
-   "note": "Olbrich's white temple under a dome of gilded laurel leaves. Klimt's Beethoven Frieze runs round a room in the basement."
+   "note": "Olbrich's white temple under a dome of gilded laurel leaves. Klimt's Beethoven Frieze runs round a room in the basement.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Secession%2C%20Friedrichstra%C3%9Fe%2012%2C%20Vienna",
+   "photo": {
+    "file": "Secession_2016,_Vienna.jpg",
+    "by": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Secession_2016%2C_Vienna.jpg"
+   }
   },
   {
    "id": "otto-wagner-pavilion",
@@ -44,7 +65,8 @@
    "address": "Karlsplatz",
    "lat": 48.20028,
    "lng": 16.37027,
-   "note": "Wagner's 1899 metro station pavilions in green iron, marble and gilded sunflowers. Transport as civic jewellery."
+   "note": "Wagner's 1899 metro station pavilions in green iron, marble and gilded sunflowers. Transport as civic jewellery.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Otto%20Wagner%20Pavilion%2C%20Karlsplatz%2C%20Vienna"
   },
   {
    "id": "postsparkasse",
@@ -54,7 +76,14 @@
    "address": "Georg-Coch-Platz 2",
    "lat": 48.20998,
    "lng": 16.38065,
-   "note": "Wagner's savings bank of 1906: granite slabs held on with aluminium bolts, a glass-floored banking hall under a glass roof. Check access before you go."
+   "note": "Wagner's savings bank of 1906: granite slabs held on with aluminium bolts, a glass-floored banking hall under a glass roof. Check access before you go.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Postsparkasse%2C%20Georg-Coch-Platz%202%2C%20Vienna",
+   "photo": {
+    "file": "P.S.K._Vienna_August_2006_030.jpg",
+    "by": "Gryffindor",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:P.S.K._Vienna_August_2006_030.jpg"
+   }
   },
   {
    "id": "mak",
@@ -64,7 +93,14 @@
    "address": "Stubenring 5",
    "lat": 48.20742,
    "lng": 16.38151,
-   "note": "The Museum of Applied Arts, strong on the Wiener Werkstätte. Bentwood, silver, textiles: the objects behind the architecture."
+   "note": "The Museum of Applied Arts, strong on the Wiener Werkstätte. Bentwood, silver, textiles: the objects behind the architecture.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=MAK%2C%20Stubenring%205%2C%20Vienna",
+   "photo": {
+    "file": "Wien_01_Museum_für_angewandte_Kunst_a.jpg",
+    "by": "Gugerell",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wien_01_Museum_f%C3%BCr_angewandte_Kunst_a.jpg"
+   }
   },
   {
    "id": "cafe-pruckel",
@@ -74,7 +110,8 @@
    "address": "Stubenring 24",
    "lat": 48.20761,
    "lng": 16.38042,
-   "note": "A 1950s coffee house opposite the MAK: pastel, spacious, unhurried. Newspapers on sticks and a Melange."
+   "note": "A 1950s coffee house opposite the MAK: pastel, spacious, unhurried. Newspapers on sticks and a Melange.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Pr%C3%BCckel%2C%20Stubenring%2024%2C%20Vienna"
   },
   {
    "id": "cafe-sperl",
@@ -84,7 +121,14 @@
    "address": "Gumpendorfer Straße 11",
    "lat": 48.19984,
    "lng": 16.36117,
-   "note": "An 1880 coffee house with billiard tables and worn velvet, hardly changed since. Sit for hours; no one will move you on."
+   "note": "An 1880 coffee house with billiard tables and worn velvet, hardly changed since. Sit for hours; no one will move you on.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Sperl%2C%20Gumpendorfer%20Stra%C3%9Fe%2011%2C%20Vienna",
+   "photo": {
+    "file": "Café_Sperl,_front,_2006.JPG",
+    "by": "Bahnfrend",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Sperl%2C_front%2C_2006.JPG"
+   }
   },
   {
    "id": "haus-wittgenstein",
@@ -94,7 +138,14 @@
    "address": "Parkgasse 18",
    "lat": 48.20345,
    "lng": 16.39427,
-   "note": "The house the philosopher designed for his sister: severe proportions, exact door handles, no ornament at all. Now a Bulgarian cultural institute, seen on guided tours."
+   "note": "The house the philosopher designed for his sister: severe proportions, exact door handles, no ornament at all. Now a Bulgarian cultural institute, seen on guided tours.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Haus%20Wittgenstein%2C%20Parkgasse%2018%2C%20Vienna",
+   "photo": {
+    "file": "Wittgenstein_haus.jpg",
+    "by": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wittgenstein_haus.jpg"
+   }
   },
   {
    "id": "karl-marx-hof",
@@ -104,7 +155,14 @@
    "address": "Heiligenstädter Straße 82–92",
    "lat": 48.25016,
    "lng": 16.36454,
-   "note": "Red Vienna's monument to social housing, a kilometre of flats with arches big enough for a tram. A small museum in the old laundry tells the story."
+   "note": "Red Vienna's monument to social housing, a kilometre of flats with arches big enough for a tram. A small museum in the old laundry tells the story.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Karl-Marx-Hof%2C%20Heiligenst%C3%A4dter%20Stra%C3%9Fe%2082%E2%80%9392%2C%20Vienna",
+   "photo": {
+    "file": "Karl-Marx-Hof_2009.jpg",
+    "by": "Dreizung",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karl-Marx-Hof_2009.jpg"
+   }
   },
   {
    "id": "steinhof",
@@ -114,7 +172,14 @@
    "address": "Baumgartner Höhe 1",
    "lat": 48.21034,
    "lng": 16.27843,
-   "note": "Wagner's church in the grounds of a hospital: white marble skin, a copper and gold dome, windows by Koloman Moser. Limited opening, mostly weekends."
+   "note": "Wagner's church in the grounds of a hospital: white marble skin, a copper and gold dome, windows by Koloman Moser. Limited opening, mostly weekends.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kirche%20am%20Steinhof%2C%20Baumgartner%20H%C3%B6he%201%2C%20Vienna",
+   "photo": {
+    "file": "Penzing_(Wien)_-_Kirche_am_Steinhof_(2).JPG",
+    "by": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Penzing_%28Wien%29_-_Kirche_am_Steinhof_%282%29.JPG"
+   }
   }
  ],
  "version": "talisman-0.3",

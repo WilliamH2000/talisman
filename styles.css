@@ -83,6 +83,16 @@ body.sheet-half .fab,body.sheet-full .fab{opacity:0;pointer-events:none}
 .empty{color:var(--mute);font-size:14px;padding:24px 0;line-height:1.55}
 
 /* ---------- detail ---------- */
+#detail .photo{margin:-24px -22px 20px;position:relative}
+#detail .photo img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px 12px 0 0;background:var(--accent-soft)}
+#detail .photo figcaption{font-size:10px;color:var(--mute);padding:6px 22px 0;letter-spacing:.02em}
+#detail .photo figcaption a{color:var(--mute)}
+#detail .photo + .sealmark{top:auto;margin-top:2px}
+#detail .photo ~ .sealmark{display:none}
+.gmaps{display:inline-flex;gap:6px;align-items:center;font-size:13px;color:var(--accent);text-decoration:none;margin:-6px 0 18px;border-bottom:1px solid var(--accent-soft);padding-bottom:2px}
+.item .thumb{width:44px;height:44px;border-radius:8px;overflow:hidden;background:var(--accent-soft);display:block}
+.item .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.item{grid-template-columns:44px 1fr auto}
 .back{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--mute);padding:4px 0 14px}
 #detail{position:relative;border:1px solid var(--line);border-radius:12px;padding:24px 22px;background:var(--paper);box-shadow:var(--shadow-sm);margin-bottom:18px}
 #detail .sealmark{position:absolute;top:20px;right:20px;color:var(--accent)}

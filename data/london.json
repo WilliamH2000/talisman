@@ -14,7 +14,14 @@
    "address": "13 Lincoln's Inn Fields, WC2A 3BP",
    "lat": 51.51708,
    "lng": -0.1175,
-   "note": "An architect's house turned into a cabinet of light. Domes, mirrors and borrowed daylight do more here than any ornament. Go on a weekday morning, before the queue."
+   "note": "An architect's house turned into a cabinet of light. Domes, mirrors and borrowed daylight do more here than any ornament. Go on a weekday morning, before the queue.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sir%20John%20Soane%27s%20Museum%2C%2013%20Lincoln%27s%20Inn%20Fields%2C%20WC2A%203BP%2C%20London",
+   "photo": {
+    "file": "Sir_John_Soane_Museum_(13952611347).jpg",
+    "by": "Tony Hisgett",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sir_John_Soane_Museum_%2813952611347%29.jpg"
+   }
   },
   {
    "id": "barbican-conservatory",
@@ -24,7 +31,14 @@
    "address": "Silk Street, EC2Y 8DS",
    "lat": 51.51988,
    "lng": -0.09263,
-   "note": "A tropical glasshouse wrapped around a theatre fly tower. Brutalism and banana leaves in the same frame. Open on selected days only, so book ahead."
+   "note": "A tropical glasshouse wrapped around a theatre fly tower. Brutalism and banana leaves in the same frame. Open on selected days only, so book ahead.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Barbican%20Conservatory%2C%20Silk%20Street%2C%20EC2Y%208DS%2C%20London",
+   "photo": {
+    "file": "Barbican,_London_-_8_June_2014_-_Andy_Mabbett_-_81.JPG",
+    "by": "Andy Mabbett",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican%2C_London_-_8_June_2014_-_Andy_Mabbett_-_81.JPG"
+   }
   },
   {
    "id": "st-dunstan-in-the-east",
@@ -34,7 +48,14 @@
    "address": "St Dunstan's Hill, EC3R 5DD",
    "lat": 51.50968,
    "lng": -0.0825,
-   "note": "A bombed Wren church left as a ruin and let the garden in. Ivy climbs the tracery where the glass used to be. Best at lunchtime, when the City empties its offices."
+   "note": "A bombed Wren church left as a ruin and let the garden in. Ivy climbs the tracery where the glass used to be. Best at lunchtime, when the City empties its offices.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=St%20Dunstan-in-the-East%2C%20St%20Dunstan%27s%20Hill%2C%20EC3R%205DD%2C%20London",
+   "photo": {
+    "file": "St_Dunstan-in-the-East.jpg",
+    "by": "Elisa.rolle",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Dunstan-in-the-East.jpg"
+   }
   },
   {
    "id": "leighton-house",
@@ -44,7 +65,14 @@
    "address": "12 Holland Park Road, W14 8LZ",
    "lat": 51.49861,
    "lng": -0.20316,
-   "note": "A Victorian painter's studio-house with a gold-domed Arab Hall at its heart. Tiles, still water, a single fountain. The quietest room in west London."
+   "note": "A Victorian painter's studio-house with a gold-domed Arab Hall at its heart. Tiles, still water, a single fountain. The quietest room in west London.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Leighton%20House%2C%2012%20Holland%20Park%20Road%2C%20W14%208LZ%2C%20London",
+   "photo": {
+    "file": "Casa_de_Leighton,_Londres,_Inglaterra,_2022-11-26,_DD_40.jpg",
+    "by": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Leighton%2C_Londres%2C_Inglaterra%2C_2022-11-26%2C_DD_40.jpg"
+   }
   },
   {
    "id": "kyoto-garden",
@@ -54,7 +82,8 @@
    "address": "Holland Park, W8 6LU",
    "lat": 51.50308,
    "lng": -0.20453,
-   "note": "A Japanese garden folded into an English park: tiered waterfall, koi, maples. Pair it with Leighton House, five minutes' walk away."
+   "note": "A Japanese garden folded into an English park: tiered waterfall, koi, maples. Pair it with Leighton House, five minutes' walk away.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Garden%2C%20Holland%20Park%2C%20W8%206LU%2C%20London"
   },
   {
    "id": "wallace-collection",
@@ -64,7 +93,14 @@
    "address": "Hertford House, Manchester Square, W1U 3BN",
    "lat": 51.51752,
    "lng": -0.15304,
-   "note": "Old Masters still hanging in the townhouse they were collected for. Coloured silk walls, Fragonard's swing, armour by the roomful. Free, and never crowded."
+   "note": "Old Masters still hanging in the townhouse they were collected for. Coloured silk walls, Fragonard's swing, armour by the roomful. Free, and never crowded.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=The%20Wallace%20Collection%2C%20Hertford%20House%2C%20Manchester%20Square%2C%20W1U%203BN%2C%20London",
+   "photo": {
+    "file": "Front_entrance_to_the_Wallace_Collection,_Manchester_Square_-_geograph.org.uk_-_1600012.jpg",
+    "by": "Anthony O'Neil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_entrance_to_the_Wallace_Collection%2C_Manchester_Square_-_geograph.org.uk_-_1600012.jpg"
+   }
   },
   {
    "id": "daunt-marylebone",
@@ -74,7 +110,14 @@
    "address": "83–84 Marylebone High Street, W1U 4QW",
    "lat": 51.52044,
    "lng": -0.15225,
-   "note": "An Edwardian bookshop with a long oak gallery and a skylight. Shelved by country, so you browse the way you travel."
+   "note": "An Edwardian bookshop with a long oak gallery and a skylight. Shelved by country, so you browse the way you travel.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Daunt%20Books%2C%2083%E2%80%9384%20Marylebone%20High%20Street%2C%20W1U%204QW%2C%20London",
+   "photo": {
+    "file": "Daunt_Books's_famous_gallery.jpg",
+    "by": "RachelH_",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daunt_Books%27s_famous_gallery.jpg"
+   }
   },
   {
    "id": "dennis-severs-house",
@@ -84,7 +127,14 @@
    "address": "18 Folgate Street, E1 6BX",
    "lat": 51.52094,
    "lng": -0.07779,
-   "note": "A Georgian house staged as if its family just left the room. Candlelight, ticking clocks, half-eaten bread. Visits are silent; keep it that way."
+   "note": "A Georgian house staged as if its family just left the room. Candlelight, ticking clocks, half-eaten bread. Visits are silent; keep it that way.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Dennis%20Severs%27%20House%2C%2018%20Folgate%20Street%2C%20E1%206BX%2C%20London",
+   "photo": {
+    "file": "18_Folgate_Street_-_geograph.org.uk_-_819517.jpg",
+    "by": "ceridwen",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:18_Folgate_Street_-_geograph.org.uk_-_819517.jpg"
+   }
   },
   {
    "id": "london-mithraeum",
@@ -94,7 +144,14 @@
    "address": "12 Walbrook, EC4N 8AA",
    "lat": 51.51238,
    "lng": -0.09068,
-   "note": "A Roman temple rebuilt seven metres down, beneath Foster's Bloomberg building. Light and sound rebuild the walls in haze. Free; book a slot."
+   "note": "A Roman temple rebuilt seven metres down, beneath Foster's Bloomberg building. Light and sound rebuild the walls in haze. Free; book a slot.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=London%20Mithraeum%2C%2012%20Walbrook%2C%20EC4N%208AA%2C%20London",
+   "photo": {
+    "file": "London_Mithraeum.jpg",
+    "by": "Gapfall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Mithraeum.jpg"
+   }
   },
   {
    "id": "isokon",
@@ -104,7 +161,14 @@
    "address": "Lawn Road, NW3 2XD",
    "lat": 51.55181,
    "lng": -0.16208,
-   "note": "Britain's first modernist block of flats, white and ocean-liner sleek. Gropius and Breuer both lived here. A small gallery tells the story on seasonal weekends."
+   "note": "Britain's first modernist block of flats, white and ocean-liner sleek. Gropius and Breuer both lived here. A small gallery tells the story on seasonal weekends.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Isokon%20Building%2C%20Lawn%20Road%2C%20NW3%202XD%2C%20London",
+   "photo": {
+    "file": "Isokon_Building_Hampstead_2005.jpg",
+    "by": "Justinc",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Isokon_Building_Hampstead_2005.jpg"
+   }
   },
   {
    "id": "sessions-arts-club",
@@ -114,7 +178,14 @@
    "address": "24 Clerkenwell Green, EC1R 0NA",
    "lat": 51.52301,
    "lng": -0.10511,
-   "note": "Dinner in the old judges' dining room of an 18th-century courthouse, its plaster left beautifully undone. Art on the walls, seasonal plates. Book well ahead."
+   "note": "Dinner in the old judges' dining room of an 18th-century courthouse, its plaster left beautifully undone. Art on the walls, seasonal plates. Book well ahead.",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sessions%20Arts%20Club%2C%2024%20Clerkenwell%20Green%2C%20EC1R%200NA%2C%20London",
+   "photo": {
+    "file": "Former_Middlesex_Sessions_House,_Clerkenwell_Green,_March_2022.jpg",
+    "by": "No Swan So Fine",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Middlesex_Sessions_House%2C_Clerkenwell_Green%2C_March_2022.jpg"
+   }
   }
  ],
  "version": "talisman-0.2",

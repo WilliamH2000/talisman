@@ -1,0 +1,112 @@
+{
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "center": [
+  52.37,
+  4.895
+ ],
+ "places": [
+  {
+   "id": "het-schip",
+   "name": "Het Schip",
+   "category": "Architecture",
+   "area": "Spaarndammerbuurt",
+   "address": "Oostzaanstraat 45",
+   "lat": 52.39049,
+   "lng": 4.87373,
+   "note": "Michel de Klerk's brick ship of social housing, the high point of the Amsterdam School. The museum includes a restored worker's flat."
+  },
+  {
+   "id": "museum-van-loon",
+   "name": "Museum Van Loon",
+   "category": "Art",
+   "area": "Grachtengordel",
+   "address": "Keizersgracht 672",
+   "lat": 52.36346,
+   "lng": 4.89338,
+   "note": "A canal house still owned by its family, with a formal garden and a coach house behind. The canal-ring life, from the inside."
+  },
+  {
+   "id": "begijnhof",
+   "name": "Begijnhof",
+   "category": "Garden",
+   "area": "Centrum",
+   "address": "Begijnhof",
+   "lat": 52.3694,
+   "lng": 4.88996,
+   "note": "A hidden courtyard of almshouses off the Spui, home to one of the city's two surviving wooden houses. Enter quietly; people live here."
+  },
+  {
+   "id": "athenaeum",
+   "name": "Athenaeum Boekhandel",
+   "category": "Books",
+   "area": "Centrum",
+   "address": "Spui 14–16",
+   "lat": 52.36891,
+   "lng": 4.88908,
+   "note": "A bookshop and newsroom on the Spui, with international magazines by the wall. Pair it with the Begijnhof next door."
+  },
+  {
+   "id": "t-smalle",
+   "name": "Café 't Smalle",
+   "category": "Bar",
+   "area": "Jordaan",
+   "address": "Egelantiersgracht 12",
+   "lat": 52.37672,
+   "lng": 4.88414,
+   "note": "A brown café in an 18th-century jenever distillery, with a few tables on a canal-side jetty. Arrive early on a fine afternoon."
+  },
+  {
+   "id": "rijksmuseum-library",
+   "name": "Rijksmuseum Library",
+   "category": "Architecture",
+   "area": "Museumkwartier",
+   "address": "Museumstraat 1",
+   "lat": 52.35984,
+   "lng": 4.88504,
+   "note": "Cuypers' cast-iron library of galleries and spiral stairs, inside the Rijksmuseum. Find it after the Night Watch."
+  },
+  {
+   "id": "stedelijk",
+   "name": "Stedelijk Museum",
+   "category": "Art",
+   "area": "Museumkwartier",
+   "address": "Museumplein 10",
+   "lat": 52.3579,
+   "lng": 4.87986,
+   "note": "Modern art and design, in a 19th-century building joined to a white 'bathtub' wing. Strong on Mondrian, Rietveld and De Stijl."
+  },
+  {
+   "id": "eye",
+   "name": "Eye Filmmuseum",
+   "category": "Architecture",
+   "area": "Noord",
+   "address": "IJpromenade 1",
+   "lat": 52.38434,
+   "lng": 4.90081,
+   "note": "A white angular hull on the far bank of the IJ. Take the free ferry from Centraal, watch a film, then a drink by the water."
+  },
+  {
+   "id": "hortus",
+   "name": "Hortus Botanicus",
+   "category": "Garden",
+   "area": "Plantage",
+   "address": "Plantage Middenlaan 2a",
+   "lat": 52.36681,
+   "lng": 4.90778,
+   "note": "One of the world's oldest botanical gardens, with a glasshouse of three climates. A green pause in the Plantage."
+  },
+  {
+   "id": "de-kas",
+   "name": "De Kas",
+   "category": "Food",
+   "area": "Watergraafsmeer",
+   "address": "Kamerlingh Onneslaan 3",
+   "lat": 52.35231,
+   "lng": 4.93056,
+   "note": "Dinner in a 1920s municipal greenhouse, cooking from what grows in its own beds. Light, glass and vegetables."
+  }
+ ],
+ "version": "talisman-0.3",
+ "slug": "amsterdam"
+}

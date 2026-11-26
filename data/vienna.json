@@ -1,0 +1,122 @@
+{
+ "city": "Vienna",
+ "country": "Austria",
+ "center": [
+  48.205,
+  16.37
+ ],
+ "places": [
+  {
+   "id": "looshaus",
+   "name": "Looshaus",
+   "category": "Architecture",
+   "area": "Innere Stadt",
+   "address": "Michaelerplatz 3",
+   "lat": 48.20838,
+   "lng": 16.36674,
+   "note": "Loos's 1911 'house without eyebrows', its bare upper facade set against the Hofburg across the square. The scandal that announced modern Vienna."
+  },
+  {
+   "id": "loos-american-bar",
+   "name": "Loos American Bar",
+   "category": "Bar",
+   "area": "Innere Stadt",
+   "address": "Kärntner Durchgang 10",
+   "lat": 48.20722,
+   "lng": 16.37124,
+   "note": "A tiny 1908 bar of onyx, marble and mirrors that make it look three times its size. Room for barely twenty; a martini, late."
+  },
+  {
+   "id": "secession",
+   "name": "Secession",
+   "category": "Art",
+   "area": "Karlsplatz",
+   "address": "Friedrichstraße 12",
+   "lat": 48.2005,
+   "lng": 16.36577,
+   "note": "Olbrich's white temple under a dome of gilded laurel leaves. Klimt's Beethoven Frieze runs round a room in the basement."
+  },
+  {
+   "id": "otto-wagner-pavilion",
+   "name": "Otto Wagner Pavilion",
+   "category": "Architecture",
+   "area": "Karlsplatz",
+   "address": "Karlsplatz",
+   "lat": 48.20028,
+   "lng": 16.37027,
+   "note": "Wagner's 1899 metro station pavilions in green iron, marble and gilded sunflowers. Transport as civic jewellery."
+  },
+  {
+   "id": "postsparkasse",
+   "name": "Postsparkasse",
+   "category": "Architecture",
+   "area": "Stubenviertel",
+   "address": "Georg-Coch-Platz 2",
+   "lat": 48.20998,
+   "lng": 16.38065,
+   "note": "Wagner's savings bank of 1906: granite slabs held on with aluminium bolts, a glass-floored banking hall under a glass roof. Check access before you go."
+  },
+  {
+   "id": "mak",
+   "name": "MAK",
+   "category": "Art",
+   "area": "Stubenviertel",
+   "address": "Stubenring 5",
+   "lat": 48.20742,
+   "lng": 16.38151,
+   "note": "The Museum of Applied Arts, strong on the Wiener Werkstätte. Bentwood, silver, textiles: the objects behind the architecture."
+  },
+  {
+   "id": "cafe-pruckel",
+   "name": "Café Prückel",
+   "category": "Café",
+   "area": "Stubenviertel",
+   "address": "Stubenring 24",
+   "lat": 48.20761,
+   "lng": 16.38042,
+   "note": "A 1950s coffee house opposite the MAK: pastel, spacious, unhurried. Newspapers on sticks and a Melange."
+  },
+  {
+   "id": "cafe-sperl",
+   "name": "Café Sperl",
+   "category": "Café",
+   "area": "Mariahilf",
+   "address": "Gumpendorfer Straße 11",
+   "lat": 48.19984,
+   "lng": 16.36117,
+   "note": "An 1880 coffee house with billiard tables and worn velvet, hardly changed since. Sit for hours; no one will move you on."
+  },
+  {
+   "id": "haus-wittgenstein",
+   "name": "Haus Wittgenstein",
+   "category": "Architecture",
+   "area": "Landstraße",
+   "address": "Parkgasse 18",
+   "lat": 48.20345,
+   "lng": 16.39427,
+   "note": "The house the philosopher designed for his sister: severe proportions, exact door handles, no ornament at all. Now a Bulgarian cultural institute, seen on guided tours."
+  },
+  {
+   "id": "karl-marx-hof",
+   "name": "Karl-Marx-Hof",
+   "category": "Architecture",
+   "area": "Heiligenstadt",
+   "address": "Heiligenstädter Straße 82–92",
+   "lat": 48.25016,
+   "lng": 16.36454,
+   "note": "Red Vienna's monument to social housing, a kilometre of flats with arches big enough for a tram. A small museum in the old laundry tells the story."
+  },
+  {
+   "id": "steinhof",
+   "name": "Kirche am Steinhof",
+   "category": "Architecture",
+   "area": "Penzing",
+   "address": "Baumgartner Höhe 1",
+   "lat": 48.21034,
+   "lng": 16.27843,
+   "note": "Wagner's church in the grounds of a hospital: white marble skin, a copper and gold dome, windows by Koloman Moser. Limited opening, mostly weekends."
+  }
+ ],
+ "version": "talisman-0.3",
+ "slug": "vienna"
+}

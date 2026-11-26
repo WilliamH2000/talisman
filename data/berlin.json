@@ -1,0 +1,112 @@
+{
+ "city": "Berlin",
+ "country": "Germany",
+ "center": [
+  52.51,
+  13.39
+ ],
+ "places": [
+  {
+   "id": "neue-nationalgalerie",
+   "name": "Neue Nationalgalerie",
+   "category": "Architecture",
+   "area": "Tiergarten",
+   "address": "Potsdamer Straße 50",
+   "lat": 52.50704,
+   "lng": 13.36762,
+   "note": "Mies's steel and glass temple of 1968, carefully restored by Chipperfield. The empty upper hall is the exhibit."
+  },
+  {
+   "id": "philharmonie",
+   "name": "Philharmonie",
+   "category": "Architecture",
+   "area": "Tiergarten",
+   "address": "Herbert-von-Karajan-Straße 1",
+   "lat": 52.50999,
+   "lng": 13.36961,
+   "note": "Scharoun's tent of gold, the orchestra in the middle and terraces of seats around it. Book a lunchtime concert or a tour."
+  },
+  {
+   "id": "neues-museum",
+   "name": "Neues Museum",
+   "category": "Architecture",
+   "area": "Museum Island",
+   "address": "Bodestraße 1–3",
+   "lat": 52.52016,
+   "lng": 13.39774,
+   "note": "Chipperfield's repair of a bombed museum, scars kept, new brick stitched into old. Nefertiti waits under her own dome."
+  },
+  {
+   "id": "juedisches-museum",
+   "name": "Jewish Museum Berlin",
+   "category": "Architecture",
+   "area": "Kreuzberg",
+   "address": "Lindenstraße 9–14",
+   "lat": 52.50225,
+   "lng": 13.39515,
+   "note": "Libeskind's zinc-clad zigzag, cut through with voids you look into but cannot enter. Architecture that makes absence physical."
+  },
+  {
+   "id": "sammlung-boros",
+   "name": "Sammlung Boros",
+   "category": "Art",
+   "area": "Mitte",
+   "address": "Reinhardtstraße 20",
+   "lat": 52.52355,
+   "lng": 13.384,
+   "note": "A wartime bunker holding a private collection of contemporary art; the owners live on top. Guided tours only, in small groups; book weeks ahead."
+  },
+  {
+   "id": "hamburger-bahnhof",
+   "name": "Hamburger Bahnhof",
+   "category": "Art",
+   "area": "Moabit",
+   "address": "Invalidenstraße 50–51",
+   "lat": 52.52863,
+   "lng": 13.37187,
+   "note": "A 19th-century railway terminus for contemporary art, with the long shed behind it for the big installations."
+  },
+  {
+   "id": "gedaechtniskirche",
+   "name": "Kaiser Wilhelm Memorial Church",
+   "category": "Architecture",
+   "area": "Charlottenburg",
+   "address": "Breitscheidplatz",
+   "lat": 52.50489,
+   "lng": 13.33461,
+   "note": "Eiermann's 1961 octagon of blue glass blocks beside the bombed spire. Step inside and the light turns everything cobalt."
+  },
+  {
+   "id": "tempelhofer-feld",
+   "name": "Tempelhofer Feld",
+   "category": "Garden",
+   "area": "Tempelhof",
+   "address": "Tempelhofer Damm",
+   "lat": 52.47442,
+   "lng": 13.4026,
+   "note": "A closed airport given back to the city as open field. Runways for cycling and kites, and the biggest sky in Berlin."
+  },
+  {
+   "id": "hufeisensiedlung",
+   "name": "Hufeisensiedlung",
+   "category": "Architecture",
+   "area": "Britz",
+   "address": "Fritz-Reuter-Allee",
+   "lat": 52.44823,
+   "lng": 13.44735,
+   "note": "Bruno Taut's horseshoe estate of the 1920s, coloured doors, gardens and all. Modernist housing that is still loved."
+  },
+  {
+   "id": "do-you-read-me",
+   "name": "Do You Read Me?!",
+   "category": "Books",
+   "area": "Mitte",
+   "address": "Auguststraße 28",
+   "lat": 52.52711,
+   "lng": 13.39782,
+   "note": "A small shop for independent magazines on art, design and fashion. Leave with more than you meant to."
+  }
+ ],
+ "version": "talisman-0.3",
+ "slug": "berlin"
+}

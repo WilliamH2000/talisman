@@ -1,0 +1,132 @@
+{
+ "city": "Milan",
+ "country": "Italy",
+ "center": [
+  45.466,
+  9.188
+ ],
+ "places": [
+  {
+   "id": "villa-necchi",
+   "name": "Villa Necchi Campiglio",
+   "category": "Architecture",
+   "area": "Porta Venezia",
+   "address": "Via Mozart 14",
+   "lat": 45.46822,
+   "lng": 9.20183,
+   "note": "Portaluppi's 1930s villa for an industrial family: marble, walnut, a garden with a heated pool behind tall hedges. Milanese restraint at its most luxurious."
+  },
+  {
+   "id": "fondazione-prada",
+   "name": "Fondazione Prada",
+   "category": "Art",
+   "area": "Largo Isarco",
+   "address": "Largo Isarco 2",
+   "lat": 45.444,
+   "lng": 9.20541,
+   "note": "OMA's conversion of an old distillery, with one building dipped in gold leaf. Stay for Bar Luce, Wes Anderson's pastel café by the entrance."
+  },
+  {
+   "id": "san-maurizio",
+   "name": "San Maurizio al Monastero Maggiore",
+   "category": "Art",
+   "area": "Magenta",
+   "address": "Corso Magenta 15",
+   "lat": 45.46541,
+   "lng": 9.17896,
+   "note": "A plain church wall hiding a fully frescoed interior, Luini's workshop end to end. The nuns' hall behind the screen is the real surprise. Free."
+  },
+  {
+   "id": "poldi-pezzoli",
+   "name": "Museo Poldi Pezzoli",
+   "category": "Art",
+   "area": "Brera",
+   "address": "Via Manzoni 12",
+   "lat": 45.46847,
+   "lng": 9.19178,
+   "note": "A collector's apartment kept intact, armour downstairs and Pollaiuolo's profile portrait of a young woman upstairs. Intimate, and rarely busy."
+  },
+  {
+   "id": "boschi-di-stefano",
+   "name": "Casa Museo Boschi Di Stefano",
+   "category": "Art",
+   "area": "Porta Venezia",
+   "address": "Via Giorgio Jan 15",
+   "lat": 45.47903,
+   "lng": 9.21175,
+   "note": "A couple's apartment hung floor to ceiling with 20th-century Italian art, in a Portaluppi building. Free, and you may have it to yourself."
+  },
+  {
+   "id": "triennale",
+   "name": "Triennale Milano",
+   "category": "Architecture",
+   "area": "Parco Sempione",
+   "address": "Viale Alemagna 6",
+   "lat": 45.47159,
+   "lng": 9.17309,
+   "note": "Muzio's 1933 palazzo for design, on the edge of Parco Sempione. See the design museum, then take a drink on the terrace above the park."
+  },
+  {
+   "id": "castiglioni-studio",
+   "name": "Studio Museo Achille Castiglioni",
+   "category": "Art",
+   "area": "Castello",
+   "address": "Piazza Castello 27",
+   "lat": 45.46956,
+   "lng": 9.17731,
+   "note": "The great designer's studio as he left it: prototypes, found objects, toys and drawings. Seen by guided tour only; book ahead."
+  },
+  {
+   "id": "armani-silos",
+   "name": "Armani/Silos",
+   "category": "Art",
+   "area": "Tortona",
+   "address": "Via Bergognone 40",
+   "lat": 45.45151,
+   "lng": 9.16469,
+   "note": "A former 1950s granary turned into Giorgio Armani's archive of four decades of clothes. Concrete, low light, total control."
+  },
+  {
+   "id": "torre-velasca",
+   "name": "Torre Velasca",
+   "category": "Architecture",
+   "area": "Centro",
+   "address": "Piazza Velasca 5",
+   "lat": 45.45991,
+   "lng": 9.19074,
+   "note": "BBPR's 1958 mushroom-shaped tower, a medieval silhouette in reinforced concrete. Best seen from the small piazza at its foot."
+  },
+  {
+   "id": "bosco-verticale",
+   "name": "Bosco Verticale",
+   "category": "Architecture",
+   "area": "Isola",
+   "address": "Via Gaetano de Castillia 11",
+   "lat": 45.48674,
+   "lng": 9.19126,
+   "note": "Boeri's two towers planted with hundreds of trees, a forest stacked on balconies. Walk around it from the Biblioteca degli Alberi park."
+  },
+  {
+   "id": "pasticceria-marchesi",
+   "name": "Pasticceria Marchesi",
+   "category": "Café",
+   "area": "Magenta",
+   "address": "Via Santa Maria alla Porta 11a",
+   "lat": 45.46549,
+   "lng": 9.18065,
+   "note": "A pastry shop dating from 1824, wood-panelled and mirrored. Espresso standing at the counter, a brioche, then on your way."
+  },
+  {
+   "id": "10-corso-como",
+   "name": "10 Corso Como",
+   "category": "Shop",
+   "area": "Garibaldi",
+   "address": "Corso Como 10",
+   "lat": 45.48186,
+   "lng": 9.18778,
+   "note": "The courtyard concept store Carla Sozzani founded in 1990: gallery, bookshop and garden café behind an old Milanese facade. The template many have copied since."
+  }
+ ],
+ "version": "talisman-0.3",
+ "slug": "milan"
+}

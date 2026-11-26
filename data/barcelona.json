@@ -1,0 +1,122 @@
+{
+ "city": "Barcelona",
+ "country": "Spain",
+ "center": [
+  41.39,
+  2.165
+ ],
+ "places": [
+  {
+   "id": "mies-pavilion",
+   "name": "Barcelona Pavilion",
+   "category": "Architecture",
+   "area": "Montjuïc",
+   "address": "Avinguda Francesc Ferrer i Guàrdia 7",
+   "lat": 41.37056,
+   "lng": 2.14996,
+   "note": "Mies van der Rohe's 1929 pavilion, rebuilt in 1986: onyx, travertine, still water and free-standing planes. Go early, when it is nearly empty."
+  },
+  {
+   "id": "fundacio-miro",
+   "name": "Fundació Joan Miró",
+   "category": "Art",
+   "area": "Montjuïc",
+   "address": "Parc de Montjuïc",
+   "lat": 41.36864,
+   "lng": 2.16008,
+   "note": "Sert's white museum for his friend, top-lit and terraced into the hill. The roof garden looks across the whole city."
+  },
+  {
+   "id": "casa-vicens",
+   "name": "Casa Vicens",
+   "category": "Architecture",
+   "area": "Gràcia",
+   "address": "Carrer de les Carolines 20",
+   "lat": 41.40351,
+   "lng": 2.15063,
+   "note": "Gaudí's first house, tiled with marigolds, all Moorish exuberance. Far quieter than his later famous works."
+  },
+  {
+   "id": "sant-pau",
+   "name": "Recinte Modernista de Sant Pau",
+   "category": "Architecture",
+   "area": "Guinardó",
+   "address": "Carrer de Sant Antoni Maria Claret 167",
+   "lat": 41.4151,
+   "lng": 2.17414,
+   "note": "Domènech i Montaner's hospital city: tiled pavilions in gardens, linked by underground tunnels. Medicine as architecture."
+  },
+  {
+   "id": "palau-musica",
+   "name": "Palau de la Música Catalana",
+   "category": "Architecture",
+   "area": "Sant Pere",
+   "address": "Carrer Palau de la Música 4–6",
+   "lat": 41.38758,
+   "lng": 2.17523,
+   "note": "A concert hall of glass, mosaic and sculpture, under an inverted stained-glass dome. Better at a concert than on a tour."
+  },
+  {
+   "id": "santa-caterina",
+   "name": "Mercat de Santa Caterina",
+   "category": "Architecture",
+   "area": "Sant Pere",
+   "address": "Avinguda de Francesc Cambó 16",
+   "lat": 41.38614,
+   "lng": 2.1785,
+   "note": "Miralles Tagliabue's undulating roof of coloured tiles, a pixelated fruit stall over an old market. Shop for lunch underneath."
+  },
+  {
+   "id": "museu-tapies",
+   "name": "Fundació Antoni Tàpies",
+   "category": "Art",
+   "area": "Eixample",
+   "address": "Carrer d'Aragó 255",
+   "lat": 41.39162,
+   "lng": 2.16366,
+   "note": "Tàpies's foundation in an early Domènech building, crowned with a cloud of tangled wire. Tough, material, quiet art."
+  },
+  {
+   "id": "museu-disseny",
+   "name": "Museu del Disseny",
+   "category": "Art",
+   "area": "Glòries",
+   "address": "Plaça de les Glòries Catalanes 37",
+   "lat": 41.4026,
+   "lng": 2.18805,
+   "note": "A cantilevered block nicknamed 'the stapler', holding Barcelona's design collections. Chairs, posters, fashion."
+  },
+  {
+   "id": "la-fabrica",
+   "name": "La Fábrica",
+   "category": "Architecture",
+   "area": "Sant Just Desvern",
+   "address": "Avinguda Indústria 14",
+   "lat": 41.38108,
+   "lng": 2.06851,
+   "note": "Bofill's converted cement works, his home and studio: silos, cypresses, cathedral volumes. Worth the trip out of town; tours are occasional."
+  },
+  {
+   "id": "el-xampanyet",
+   "name": "El Xampanyet",
+   "category": "Bar",
+   "area": "El Born",
+   "address": "Carrer de Montcada 22",
+   "lat": 41.38451,
+   "lng": 2.18167,
+   "note": "A tiled cava bar in the same family for generations. House cava, anchovies, elbows at the counter."
+  },
+  {
+   "id": "bar-canete",
+   "name": "Bar Cañete",
+   "category": "Food",
+   "area": "El Raval",
+   "address": "Carrer de la Unió 17",
+   "lat": 41.37914,
+   "lng": 2.17314,
+   "note": "A long counter and fast, precise tapas cooked in front of you. Sit at the bar, not the tables."
+  }
+ ],
+ "version": "talisman-0.3",
+ "slug": "barcelona"
+}
